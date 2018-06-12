@@ -1,0 +1,29 @@
+joranm@student.ethz.ch
+dnilis@student.ethz.ch
+hkuecuek@student.ethz.ch
+
+Preprocessing
+compressionbysubsampling, everysecondpixel, fitsinmemory
+
+Features
+histogramwithbinsof1,fourieronhistogram,first4frequenciesoffourier
+
+Model
+logisticregression, L1normpenalty, predictprobabilitybeingclass1
+
+Description
+In this second project our main strategy was agian mostly trail and error.
+We focused on writing efficient code so we could try a lot of models and a lot of combinations of features in a reasonable time (this is strongly reflected in the module experiments.py in /src/app). Although we tried to 'understand' the data (by plotting images, see /images folder) and also consulted the internet for information that links age and the brain, the choices below are mostly taken because they gave us the best results during our experiments.
+
+Preprocessing:
+Compressing down the images with a compression rate of 2 (essentially just selecting a pixel every
+two pixels). At the beginning we started out with a compression rate of 5 (like in our first project) but a compression rate of 2 seem to give better results so we went with it. If we didn't use a compression rate (just using the full images), the training images didn't fit in the memory of our computers. In that case it would have been a lot more difficult to do a lot of experiments.
+
+We tried dividing the images in subimages, cropping them to ellipsoids and cuboids, and even (approximately) extracting the cerebrum parts of the images (because we saw by looking at the samples that the outer brain tissue differed between ill and healthy brains, the internet also confirmed this). None of these strategies gave better results than what is described in the paragraph above.
+
+Features:
+From the preprocessed images we extracted a histogram (with bins of width 1) of all the voxel
+intensities that occured. Then we used a DFT to extract the frequencies in this histogram. The first 4 frequencies were used as features.
+
+Model:
+Logistic regression was our first and final chose because it gave the best result and theoretically it also minimizes the logloss-error when using a linear classifier (when you use the probabilities for belonging to class 1 as predictions).

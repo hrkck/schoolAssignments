@@ -1,0 +1,1095 @@
+Model name,Features names,Error,Date Time
+LogisticRegression,polyfit border_smooth_sample smooth_sample,6.8226129859,2016-11-15 00:28:42.111000
+LogisticRegression,polyfit border_smooth_sample smooth_sample,7.0778229606,2016-11-15 00:28:42.199000
+LogisticRegression,polyfit border_smooth_sample smooth_sample,6.8226129859,2016-11-15 00:29:26.173000
+LogisticRegression,polyfit border_smooth_sample smooth_sample,7.0778229606,2016-11-15 00:29:26.269000
+LogisticRegression,polyfit border_smooth_sample smooth_sample,6.94596861444,2016-11-15 00:29:30.746000
+LogisticRegression,polyfit border_smooth_sample smooth_sample,7.0778229606,2016-11-15 00:29:30.843000
+LogisticRegression,polyfit border_smooth_sample smooth_sample,6.8226129859,2016-11-15 00:29:37.891000
+LogisticRegression,polyfit border_smooth_sample smooth_sample,7.0778229606,2016-11-15 00:29:37.987000
+LogisticRegression,polyfit border_smooth_sample smooth_sample,6.8226129859,2016-11-15 00:29:41.334000
+LogisticRegression,polyfit border_smooth_sample smooth_sample,7.0778229606,2016-11-15 00:29:41.431000
+LogisticRegression,polyfit border_smooth_sample smooth_sample,6.94596861444,2016-11-15 00:29:43.683000
+LogisticRegression,polyfit border_smooth_sample smooth_sample,7.0778229606,2016-11-15 00:29:43.779000
+LogisticRegression,polyfit border_smooth_sample smooth_sample,6.8226129859,2016-11-15 00:34:11.627000
+LogisticRegression,polyfit border_smooth_sample smooth_sample,7.0778229606,2016-11-15 00:34:11.721000
+LogisticRegression,polyfit border_smooth_sample smooth_sample,6.8226129859,2016-11-15 00:34:14.065000
+LogisticRegression,polyfit border_smooth_sample smooth_sample,7.0778229606,2016-11-15 00:34:14.161000
+LogisticRegression,polyfit border_smooth_sample smooth_sample,6.8226129859,2016-11-15 00:34:29.959000
+LogisticRegression,polyfit border_smooth_sample smooth_sample,7.0778229606,2016-11-15 00:34:30.057000
+LogisticRegression,polyfit border_smooth_sample smooth_sample,-6.8226129859,2016-11-15 00:34:41.556000
+LogisticRegression,polyfit border_smooth_sample smooth_sample,-7.0778229606,2016-11-15 00:34:41.653000
+LogisticRegression,polyfit border_smooth_sample smooth_sample,6.19969080616,2016-11-15 00:51:11.632000
+LogisticRegression,polyfit border_smooth_sample smooth_sample,6.94895060857,2016-11-15 00:51:11.711000
+LogisticRegression,polyfit border_smooth_sample smooth_sample,6.19969080616,2016-11-15 00:51:36.049000
+LogisticRegression,polyfit border_smooth_sample smooth_sample,6.94895060857,2016-11-15 00:51:36.127000
+LogisticRegression,polyfit border_smooth_sample smooth_sample,6.32761516168,2016-11-15 00:51:40.862000
+LogisticRegression,polyfit border_smooth_sample smooth_sample,6.94895060857,2016-11-15 00:51:40.939000
+LogisticRegression,polyfit border_smooth_sample smooth_sample,6.70822869948,2016-11-15 00:51:58.929000
+LogisticRegression,polyfit border_smooth_sample smooth_sample,7.57394950608,2016-11-15 00:51:58.985000
+LogisticRegression,polyfit border_smooth_sample smooth_sample,6.70822869948,2016-11-15 00:52:00.222000
+LogisticRegression,polyfit border_smooth_sample smooth_sample,7.57394950608,2016-11-15 00:52:00.279000
+LogisticRegression,polyfit border_smooth_sample smooth_sample,6.70822869948,2016-11-15 00:52:02.873000
+LogisticRegression,polyfit border_smooth_sample smooth_sample,7.57394950608,2016-11-15 00:52:02.929000
+LogisticRegression,polyfit border_smooth_sample smooth_sample,6.32761516168,2016-11-15 00:58:35.772000
+LogisticRegression,polyfit border_smooth_sample smooth_sample,6.94895060857,2016-11-15 00:58:35.877000
+LogisticRegression,polyfit border_smooth_sample smooth_sample,6.19969080616,2016-11-15 01:12:16.670000
+LogisticRegression,polyfit border_smooth_sample smooth_sample,6.94895060857,2016-11-15 01:12:16.808000
+LogisticRegression,polyfit border_smooth_sample smooth_sample,6.32761516168,2016-11-15 01:14:10.696000
+LogisticRegression,polyfit border_smooth_sample smooth_sample,6.94895060857,2016-11-15 01:14:10.813000
+LogisticRegression,polyfit border_smooth_sample smooth_sample,0.356290249642,2016-11-15 01:29:38.839000
+LogisticRegression,polyfit border_smooth_sample smooth_sample,0.3722233944,2016-11-15 01:29:38.940000
+LogisticRegression,polyfit border_smooth_sample smooth_sample,0.356211875312,2016-11-15 01:30:56.419000
+LogisticRegression,polyfit border_smooth_sample smooth_sample,0.3722233944,2016-11-15 01:30:56.549000
+LogisticRegression,polyfit,0.415289131041,2016-11-15 11:45:35.933000
+LogisticRegression,border_smooth_sample,0.355219877939,2016-11-15 11:45:36.349000
+LogisticRegression,smooth_sample,0.353838098345,2016-11-15 11:45:36.697000
+LogisticRegression,spread,0.515735857649,2016-11-15 11:46:13.011000
+LogisticRegression,grey_white_ratio,0.451000943543,2016-11-15 11:46:49.637000
+LogisticRegression,mean_feature,0.551437058818,2016-11-15 11:47:26.706000
+LogisticRegression,variance_feature,0.392680472836,2016-11-15 11:48:04.022000
+LogisticRegression,local_maxima_3,0.457109070497,2016-11-15 11:48:42.085000
+LogisticRegression,local_maxima_without_smoothing,0.423832452103,2016-11-15 11:49:29.388000
+LogisticRegression,PCA_transform,0.323377582178,2016-11-15 11:50:07.816000
+LogisticRegression,polyfit border_smooth_sample,0.355189085088,2016-11-15 11:50:08.217000
+LogisticRegression,polyfit smooth_sample,0.353824767409,2016-11-15 11:50:08.533000
+LogisticRegression,polyfit spread,0.520257709907,2016-11-15 11:50:09.715000
+LogisticRegression,polyfit grey_white_ratio,0.39445002927,2016-11-15 11:50:09.785000
+LogisticRegression,polyfit mean_feature,0.42015527304,2016-11-15 11:50:09.864000
+LogisticRegression,polyfit variance_feature,0.381511094313,2016-11-15 11:50:09.925000
+LogisticRegression,polyfit local_maxima_3,0.407449574626,2016-11-15 11:50:10.010000
+LogisticRegression,polyfit local_maxima_without_smoothing,0.410321231767,2016-11-15 11:50:10.110000
+LogisticRegression,polyfit PCA_transform,0.32095047403,2016-11-15 11:50:10.179000
+LogisticRegression,border_smooth_sample smooth_sample,0.356336091264,2016-11-15 11:50:10.876000
+LogisticRegression,border_smooth_sample spread,0.518027740978,2016-11-15 11:50:11.985000
+LogisticRegression,border_smooth_sample grey_white_ratio,0.358954927097,2016-11-15 11:50:12.196000
+LogisticRegression,border_smooth_sample mean_feature,0.355717226806,2016-11-15 11:50:13.212000
+LogisticRegression,border_smooth_sample variance_feature,0.343021967887,2016-11-15 11:50:13.434000
+LogisticRegression,border_smooth_sample local_maxima_3,0.364686552684,2016-11-15 11:50:13.682000
+LogisticRegression,border_smooth_sample local_maxima_without_smoothing,0.370556108891,2016-11-15 11:50:14.034000
+LogisticRegression,border_smooth_sample PCA_transform,0.357819671573,2016-11-15 11:50:14.537000
+LogisticRegression,smooth_sample spread,0.522379674381,2016-11-15 11:50:15.630000
+LogisticRegression,smooth_sample grey_white_ratio,0.357234464534,2016-11-15 11:50:15.843000
+LogisticRegression,smooth_sample mean_feature,0.354335834704,2016-11-15 11:50:16.711000
+LogisticRegression,smooth_sample variance_feature,0.338445540961,2016-11-15 11:50:16.912000
+LogisticRegression,smooth_sample local_maxima_3,0.363134842832,2016-11-15 11:50:17.128000
+LogisticRegression,smooth_sample local_maxima_without_smoothing,0.372012926439,2016-11-15 11:50:17.460000
+LogisticRegression,smooth_sample PCA_transform,0.354518161672,2016-11-15 11:50:17.983000
+LogisticRegression,spread grey_white_ratio,0.533586562028,2016-11-15 11:50:19.117000
+LogisticRegression,spread mean_feature,0.53812919338,2016-11-15 11:50:20.264000
+LogisticRegression,spread variance_feature,0.574985296643,2016-11-15 11:50:22.983000
+LogisticRegression,spread local_maxima_3,0.633066687731,2016-11-15 11:50:24.341000
+LogisticRegression,spread local_maxima_without_smoothing,0.691715823293,2016-11-15 11:50:25.638000
+LogisticRegression,spread PCA_transform,0.548895128406,2016-11-15 11:50:26.818000
+LogisticRegression,grey_white_ratio mean_feature,0.453562726307,2016-11-15 11:50:26.870000
+LogisticRegression,grey_white_ratio variance_feature,0.401675756898,2016-11-15 11:50:26.936000
+LogisticRegression,grey_white_ratio local_maxima_3,0.418785057312,2016-11-15 11:50:27.011000
+LogisticRegression,grey_white_ratio local_maxima_without_smoothing,0.436784739354,2016-11-15 11:50:27.125000
+LogisticRegression,grey_white_ratio PCA_transform,0.330302915538,2016-11-15 11:50:27.178000
+LogisticRegression,mean_feature variance_feature,0.382197228027,2016-11-15 11:50:27.241000
+LogisticRegression,mean_feature local_maxima_3,0.459965771317,2016-11-15 11:50:27.325000
+LogisticRegression,mean_feature local_maxima_without_smoothing,0.429094296938,2016-11-15 11:50:27.479000
+LogisticRegression,mean_feature PCA_transform,0.323285571702,2016-11-15 11:50:27.541000
+LogisticRegression,variance_feature local_maxima_3,0.390291479267,2016-11-15 11:50:27.595000
+LogisticRegression,variance_feature local_maxima_without_smoothing,0.395747623856,2016-11-15 11:50:27.679000
+LogisticRegression,variance_feature PCA_transform,0.323320079457,2016-11-15 11:50:27.742000
+LogisticRegression,local_maxima_3 local_maxima_without_smoothing,0.429039844702,2016-11-15 11:50:27.879000
+LogisticRegression,local_maxima_3 PCA_transform,0.330690374244,2016-11-15 11:50:27.942000
+LogisticRegression,local_maxima_without_smoothing PCA_transform,0.339765404417,2016-11-15 11:50:28.042000
+LogisticRegression,polyfit border_smooth_sample smooth_sample,0.356199508774,2016-11-15 11:50:28.728000
+LogisticRegression,polyfit border_smooth_sample spread,0.523068093524,2016-11-15 11:50:29.910000
+LogisticRegression,polyfit border_smooth_sample grey_white_ratio,0.359158569305,2016-11-15 11:50:30.133000
+LogisticRegression,polyfit border_smooth_sample mean_feature,0.355344600212,2016-11-15 11:50:31.124000
+LogisticRegression,polyfit border_smooth_sample variance_feature,0.34042949442,2016-11-15 11:50:31.256000
+LogisticRegression,polyfit border_smooth_sample local_maxima_3,0.365210000925,2016-11-15 11:50:31.525000
+LogisticRegression,polyfit border_smooth_sample local_maxima_without_smoothing,0.369984475811,2016-11-15 11:50:31.873000
+LogisticRegression,polyfit border_smooth_sample PCA_transform,0.359120063313,2016-11-15 11:50:32.412000
+LogisticRegression,polyfit smooth_sample spread,0.519006601856,2016-11-15 11:50:33.623000
+LogisticRegression,polyfit smooth_sample grey_white_ratio,0.358199465653,2016-11-15 11:50:33.855000
+LogisticRegression,polyfit smooth_sample mean_feature,0.354091912321,2016-11-15 11:50:34.902000
+LogisticRegression,polyfit smooth_sample variance_feature,0.340112057412,2016-11-15 11:50:35.118000
+LogisticRegression,polyfit smooth_sample local_maxima_3,0.363449428486,2016-11-15 11:50:35.372000
+LogisticRegression,polyfit smooth_sample local_maxima_without_smoothing,0.370074349563,2016-11-15 11:50:35.655000
+LogisticRegression,polyfit smooth_sample PCA_transform,0.354954835294,2016-11-15 11:50:36.189000
+LogisticRegression,polyfit spread grey_white_ratio,0.527055873002,2016-11-15 11:50:37.344000
+LogisticRegression,polyfit spread mean_feature,0.541964199118,2016-11-15 11:50:38.576000
+LogisticRegression,polyfit spread variance_feature,0.643283548739,2016-11-15 11:50:42.265000
+LogisticRegression,polyfit spread local_maxima_3,0.650852739943,2016-11-15 11:50:43.568000
+LogisticRegression,polyfit spread local_maxima_without_smoothing,0.687635548642,2016-11-15 11:50:44.950000
+LogisticRegression,polyfit spread PCA_transform,0.551400211934,2016-11-15 11:50:46.107000
+LogisticRegression,polyfit grey_white_ratio mean_feature,0.395824295598,2016-11-15 11:50:46.179000
+LogisticRegression,polyfit grey_white_ratio variance_feature,0.377566171916,2016-11-15 11:50:46.237000
+LogisticRegression,polyfit grey_white_ratio local_maxima_3,0.392746281705,2016-11-15 11:50:46.329000
+LogisticRegression,polyfit grey_white_ratio local_maxima_without_smoothing,0.417612344698,2016-11-15 11:50:46.428000
+LogisticRegression,polyfit grey_white_ratio PCA_transform,0.325710461055,2016-11-15 11:50:46.494000
+LogisticRegression,polyfit mean_feature variance_feature,0.374279439182,2016-11-15 11:50:46.559000
+LogisticRegression,polyfit mean_feature local_maxima_3,0.406886155209,2016-11-15 11:50:46.660000
+LogisticRegression,polyfit mean_feature local_maxima_without_smoothing,0.412623843974,2016-11-15 11:50:46.813000
+LogisticRegression,polyfit mean_feature PCA_transform,0.324587995911,2016-11-15 11:50:46.895000
+LogisticRegression,polyfit variance_feature local_maxima_3,0.372395802935,2016-11-15 11:50:46.960000
+LogisticRegression,polyfit variance_feature local_maxima_without_smoothing,0.389342168481,2016-11-15 11:50:47.045000
+LogisticRegression,polyfit variance_feature PCA_transform,0.322832685985,2016-11-15 11:50:47.129000
+LogisticRegression,polyfit local_maxima_3 local_maxima_without_smoothing,0.42435839603,2016-11-15 11:50:47.261000
+LogisticRegression,polyfit local_maxima_3 PCA_transform,0.332309833943,2016-11-15 11:50:47.330000
+LogisticRegression,polyfit local_maxima_without_smoothing PCA_transform,0.34341970895,2016-11-15 11:50:47.477000
+LogisticRegression,border_smooth_sample smooth_sample spread,0.516696818536,2016-11-15 11:50:48.672000
+LogisticRegression,border_smooth_sample smooth_sample grey_white_ratio,0.361184806241,2016-11-15 11:50:49.177000
+LogisticRegression,border_smooth_sample smooth_sample mean_feature,0.356287664055,2016-11-15 11:50:50.294000
+LogisticRegression,border_smooth_sample smooth_sample variance_feature,0.348744795968,2016-11-15 11:50:50.636000
+LogisticRegression,border_smooth_sample smooth_sample local_maxima_3,0.367780171305,2016-11-15 11:50:51.105000
+LogisticRegression,border_smooth_sample smooth_sample local_maxima_without_smoothing,0.37346013711,2016-11-15 11:50:51.770000
+LogisticRegression,border_smooth_sample smooth_sample PCA_transform,0.357569486988,2016-11-15 11:50:52.472000
+LogisticRegression,border_smooth_sample spread grey_white_ratio,0.531674439285,2016-11-15 11:50:53.609000
+LogisticRegression,border_smooth_sample spread mean_feature,0.535253493415,2016-11-15 11:50:54.797000
+LogisticRegression,border_smooth_sample spread variance_feature,0.611759402803,2016-11-15 11:50:58.514000
+LogisticRegression,border_smooth_sample spread local_maxima_3,0.633834312553,2016-11-15 11:50:59.778000
+LogisticRegression,border_smooth_sample spread local_maxima_without_smoothing,0.694685800641,2016-11-15 11:51:01.068000
+LogisticRegression,border_smooth_sample spread PCA_transform,0.553595025027,2016-11-15 11:51:02.283000
+LogisticRegression,border_smooth_sample grey_white_ratio mean_feature,0.360461445679,2016-11-15 11:51:03.398000
+LogisticRegression,border_smooth_sample grey_white_ratio variance_feature,0.350291821139,2016-11-15 11:51:03.714000
+LogisticRegression,border_smooth_sample grey_white_ratio local_maxima_3,0.369587141205,2016-11-15 11:51:03.961000
+LogisticRegression,border_smooth_sample grey_white_ratio local_maxima_without_smoothing,0.375150932803,2016-11-15 11:51:04.277000
+LogisticRegression,border_smooth_sample grey_white_ratio PCA_transform,0.360956333854,2016-11-15 11:51:04.547000
+LogisticRegression,border_smooth_sample mean_feature variance_feature,0.34263636191,2016-11-15 11:51:04.678000
+LogisticRegression,border_smooth_sample mean_feature local_maxima_3,0.372900838334,2016-11-15 11:51:06.160000
+LogisticRegression,border_smooth_sample mean_feature local_maxima_without_smoothing,0.372229335374,2016-11-15 11:51:06.706000
+LogisticRegression,border_smooth_sample mean_feature PCA_transform,0.359856858233,2016-11-15 11:51:08.223000
+LogisticRegression,border_smooth_sample variance_feature local_maxima_3,0.359397006228,2016-11-15 11:51:08.367000
+LogisticRegression,border_smooth_sample variance_feature local_maxima_without_smoothing,0.370598401386,2016-11-15 11:51:08.715000
+LogisticRegression,border_smooth_sample variance_feature PCA_transform,0.338561115632,2016-11-15 11:51:08.953000
+LogisticRegression,border_smooth_sample local_maxima_3 local_maxima_without_smoothing,0.392406514031,2016-11-15 11:51:09.370000
+LogisticRegression,border_smooth_sample local_maxima_3 PCA_transform,0.371575799031,2016-11-15 11:51:09.818000
+LogisticRegression,border_smooth_sample local_maxima_without_smoothing PCA_transform,0.374879247573,2016-11-15 11:51:10.203000
+LogisticRegression,smooth_sample spread grey_white_ratio,0.533204301535,2016-11-15 11:51:11.321000
+LogisticRegression,smooth_sample spread mean_feature,0.542271606241,2016-11-15 11:51:12.508000
+LogisticRegression,smooth_sample spread variance_feature,0.568897691267,2016-11-15 11:51:15.521000
+LogisticRegression,smooth_sample spread local_maxima_3,0.632524230231,2016-11-15 11:51:16.779000
+LogisticRegression,smooth_sample spread local_maxima_without_smoothing,0.68673175671,2016-11-15 11:51:18.090000
+LogisticRegression,smooth_sample spread PCA_transform,0.54149786104,2016-11-15 11:51:19.220000
+LogisticRegression,smooth_sample grey_white_ratio mean_feature,0.359684138418,2016-11-15 11:51:20.209000
+LogisticRegression,smooth_sample grey_white_ratio variance_feature,0.347617227138,2016-11-15 11:51:20.365000
+LogisticRegression,smooth_sample grey_white_ratio local_maxima_3,0.368920013193,2016-11-15 11:51:20.582000
+LogisticRegression,smooth_sample grey_white_ratio local_maxima_without_smoothing,0.374812079712,2016-11-15 11:51:20.851000
+LogisticRegression,smooth_sample grey_white_ratio PCA_transform,0.35827428311,2016-11-15 11:51:21.152000
+LogisticRegression,smooth_sample mean_feature variance_feature,0.341469336568,2016-11-15 11:51:21.463000
+LogisticRegression,smooth_sample mean_feature local_maxima_3,0.371967042534,2016-11-15 11:51:22.845000
+LogisticRegression,smooth_sample mean_feature local_maxima_without_smoothing,0.372694809454,2016-11-15 11:51:23.454000
+LogisticRegression,smooth_sample mean_feature PCA_transform,0.356970395749,2016-11-15 11:51:24.991000
+LogisticRegression,smooth_sample variance_feature local_maxima_3,0.358029951061,2016-11-15 11:51:25.235000
+LogisticRegression,smooth_sample variance_feature local_maxima_without_smoothing,0.356345174758,2016-11-15 11:51:25.383000
+LogisticRegression,smooth_sample variance_feature PCA_transform,0.339792819012,2016-11-15 11:51:25.499000
+LogisticRegression,smooth_sample local_maxima_3 local_maxima_without_smoothing,0.391861978632,2016-11-15 11:51:25.838000
+LogisticRegression,smooth_sample local_maxima_3 PCA_transform,0.368375264064,2016-11-15 11:51:26.254000
+LogisticRegression,smooth_sample local_maxima_without_smoothing PCA_transform,0.37364767113,2016-11-15 11:51:26.739000
+LogisticRegression,spread grey_white_ratio mean_feature,0.554985852724,2016-11-15 11:51:27.924000
+LogisticRegression,spread grey_white_ratio variance_feature,0.615127057142,2016-11-15 11:51:31.344000
+LogisticRegression,spread grey_white_ratio local_maxima_3,0.645147527543,2016-11-15 11:51:32.713000
+LogisticRegression,spread grey_white_ratio local_maxima_without_smoothing,0.69437625183,2016-11-15 11:51:34.077000
+LogisticRegression,spread grey_white_ratio PCA_transform,0.563224492441,2016-11-15 11:51:35.205000
+LogisticRegression,spread mean_feature variance_feature,0.634354699495,2016-11-15 11:51:38.884000
+LogisticRegression,spread mean_feature local_maxima_3,0.653423912429,2016-11-15 11:51:40.164000
+LogisticRegression,spread mean_feature local_maxima_without_smoothing,0.701070589032,2016-11-15 11:51:41.448000
+LogisticRegression,spread mean_feature PCA_transform,0.565863397586,2016-11-15 11:51:42.705000
+LogisticRegression,spread variance_feature local_maxima_3,0.682321803277,2016-11-15 11:51:47.601000
+LogisticRegression,spread variance_feature local_maxima_without_smoothing,0.688125909311,2016-11-15 11:51:50.753000
+LogisticRegression,spread variance_feature PCA_transform,0.563974052673,2016-11-15 11:51:53.191000
+LogisticRegression,spread local_maxima_3 local_maxima_without_smoothing,0.744737302011,2016-11-15 11:51:54.648000
+LogisticRegression,spread local_maxima_3 PCA_transform,0.647606069607,2016-11-15 11:51:55.945000
+LogisticRegression,spread local_maxima_without_smoothing PCA_transform,0.701120976832,2016-11-15 11:51:57.237000
+LogisticRegression,grey_white_ratio mean_feature variance_feature,0.385997108364,2016-11-15 11:51:57.313000
+LogisticRegression,grey_white_ratio mean_feature local_maxima_3,0.416334490195,2016-11-15 11:51:57.405000
+LogisticRegression,grey_white_ratio mean_feature local_maxima_without_smoothing,0.432066631238,2016-11-15 11:51:57.580000
+LogisticRegression,grey_white_ratio mean_feature PCA_transform,0.327596387339,2016-11-15 11:51:57.625000
+LogisticRegression,grey_white_ratio variance_feature local_maxima_3,0.3881653371,2016-11-15 11:51:57.695000
+LogisticRegression,grey_white_ratio variance_feature local_maxima_without_smoothing,0.400567644699,2016-11-15 11:51:57.794000
+LogisticRegression,grey_white_ratio variance_feature PCA_transform,0.328064325762,2016-11-15 11:51:57.842000
+LogisticRegression,grey_white_ratio local_maxima_3 local_maxima_without_smoothing,0.435423706636,2016-11-15 11:51:57.958000
+LogisticRegression,grey_white_ratio local_maxima_3 PCA_transform,0.334988252851,2016-11-15 11:51:58.027000
+LogisticRegression,grey_white_ratio local_maxima_without_smoothing PCA_transform,0.343561159329,2016-11-15 11:51:58.143000
+LogisticRegression,mean_feature variance_feature local_maxima_3,0.383817430125,2016-11-15 11:51:58.259000
+LogisticRegression,mean_feature variance_feature local_maxima_without_smoothing,0.401049849098,2016-11-15 11:51:58.428000
+LogisticRegression,mean_feature variance_feature PCA_transform,0.323986464187,2016-11-15 11:51:58.512000
+LogisticRegression,mean_feature local_maxima_3 local_maxima_without_smoothing,0.427399795134,2016-11-15 11:51:58.713000
+LogisticRegression,mean_feature local_maxima_3 PCA_transform,0.337434983438,2016-11-15 11:51:58.828000
+LogisticRegression,mean_feature local_maxima_without_smoothing PCA_transform,0.346394473324,2016-11-15 11:51:59.013000
+LogisticRegression,variance_feature local_maxima_3 local_maxima_without_smoothing,0.401013106077,2016-11-15 11:51:59.129000
+LogisticRegression,variance_feature local_maxima_3 PCA_transform,0.337961241631,2016-11-15 11:51:59.229000
+LogisticRegression,variance_feature local_maxima_without_smoothing PCA_transform,0.345934299945,2016-11-15 11:51:59.476000
+LogisticRegression,local_maxima_3 local_maxima_without_smoothing PCA_transform,0.35614440324,2016-11-15 11:51:59.614000
+LogisticRegression,polyfit border_smooth_sample smooth_sample spread,0.517700321374,2016-11-15 11:52:00.718000
+LogisticRegression,polyfit border_smooth_sample smooth_sample grey_white_ratio,0.361187576916,2016-11-15 11:52:01.166000
+LogisticRegression,polyfit border_smooth_sample smooth_sample mean_feature,0.356017535587,2016-11-15 11:52:02.422000
+LogisticRegression,polyfit border_smooth_sample smooth_sample variance_feature,0.348378205204,2016-11-15 11:52:02.649000
+LogisticRegression,polyfit border_smooth_sample smooth_sample local_maxima_3,0.36613450496,2016-11-15 11:52:03.050000
+LogisticRegression,polyfit border_smooth_sample smooth_sample local_maxima_without_smoothing,0.37200647692,2016-11-15 11:52:03.567000
+LogisticRegression,polyfit border_smooth_sample smooth_sample PCA_transform,0.357491561707,2016-11-15 11:52:04.268000
+LogisticRegression,polyfit border_smooth_sample spread grey_white_ratio,0.533704312085,2016-11-15 11:52:05.421000
+LogisticRegression,polyfit border_smooth_sample spread mean_feature,0.543475347687,2016-11-15 11:52:06.658000
+LogisticRegression,polyfit border_smooth_sample spread variance_feature,0.558091464079,2016-11-15 11:52:09.627000
+LogisticRegression,polyfit border_smooth_sample spread local_maxima_3,0.642229370975,2016-11-15 11:52:10.966000
+LogisticRegression,polyfit border_smooth_sample spread local_maxima_without_smoothing,0.689238252259,2016-11-15 11:52:12.424000
+LogisticRegression,polyfit border_smooth_sample spread PCA_transform,0.548828356627,2016-11-15 11:52:13.602000
+LogisticRegression,polyfit border_smooth_sample grey_white_ratio mean_feature,0.360712685867,2016-11-15 11:52:14.553000
+LogisticRegression,polyfit border_smooth_sample grey_white_ratio variance_feature,0.347853824884,2016-11-15 11:52:14.700000
+LogisticRegression,polyfit border_smooth_sample grey_white_ratio local_maxima_3,0.370162391953,2016-11-15 11:52:15.001000
+LogisticRegression,polyfit border_smooth_sample grey_white_ratio local_maxima_without_smoothing,0.375203346167,2016-11-15 11:52:15.355000
+LogisticRegression,polyfit border_smooth_sample grey_white_ratio PCA_transform,0.362758641862,2016-11-15 11:52:15.671000
+LogisticRegression,polyfit border_smooth_sample mean_feature variance_feature,0.342676659921,2016-11-15 11:52:15.803000
+LogisticRegression,polyfit border_smooth_sample mean_feature local_maxima_3,0.372439923741,2016-11-15 11:52:17.373000
+LogisticRegression,polyfit border_smooth_sample mean_feature local_maxima_without_smoothing,0.370996149757,2016-11-15 11:52:17.855000
+LogisticRegression,polyfit border_smooth_sample mean_feature PCA_transform,0.359831395255,2016-11-15 11:52:19.285000
+LogisticRegression,polyfit border_smooth_sample variance_feature local_maxima_3,0.363549923909,2016-11-15 11:52:19.562000
+LogisticRegression,polyfit border_smooth_sample variance_feature local_maxima_without_smoothing,0.371649489096,2016-11-15 11:52:20.060000
+LogisticRegression,polyfit border_smooth_sample variance_feature PCA_transform,0.340723195359,2016-11-15 11:52:20.198000
+LogisticRegression,polyfit border_smooth_sample local_maxima_3 local_maxima_without_smoothing,0.391054981252,2016-11-15 11:52:20.615000
+LogisticRegression,polyfit border_smooth_sample local_maxima_3 PCA_transform,0.370515159731,2016-11-15 11:52:21.016000
+LogisticRegression,polyfit border_smooth_sample local_maxima_without_smoothing PCA_transform,0.377685823324,2016-11-15 11:52:21.539000
+LogisticRegression,polyfit smooth_sample spread grey_white_ratio,0.535714407773,2016-11-15 11:52:22.690000
+LogisticRegression,polyfit smooth_sample spread mean_feature,0.541388846547,2016-11-15 11:52:23.907000
+LogisticRegression,polyfit smooth_sample spread variance_feature,0.522065765209,2016-11-15 11:52:25.782000
+LogisticRegression,polyfit smooth_sample spread local_maxima_3,0.64632194869,2016-11-15 11:52:27.087000
+LogisticRegression,polyfit smooth_sample spread local_maxima_without_smoothing,0.685132362159,2016-11-15 11:52:28.409000
+LogisticRegression,polyfit smooth_sample spread PCA_transform,0.553149222018,2016-11-15 11:52:29.588000
+LogisticRegression,polyfit smooth_sample grey_white_ratio mean_feature,0.357269002279,2016-11-15 11:52:30.578000
+LogisticRegression,polyfit smooth_sample grey_white_ratio variance_feature,0.348999244523,2016-11-15 11:52:30.750000
+LogisticRegression,polyfit smooth_sample grey_white_ratio local_maxima_3,0.368737504199,2016-11-15 11:52:30.985000
+LogisticRegression,polyfit smooth_sample grey_white_ratio local_maxima_without_smoothing,0.374610954642,2016-11-15 11:52:31.287000
+LogisticRegression,polyfit smooth_sample grey_white_ratio PCA_transform,0.358666893066,2016-11-15 11:52:31.568000
+LogisticRegression,polyfit smooth_sample mean_feature variance_feature,0.343797880611,2016-11-15 11:52:31.789000
+LogisticRegression,polyfit smooth_sample mean_feature local_maxima_3,0.371932904936,2016-11-15 11:52:33.227000
+LogisticRegression,polyfit smooth_sample mean_feature local_maxima_without_smoothing,0.373120358636,2016-11-15 11:52:33.844000
+LogisticRegression,polyfit smooth_sample mean_feature PCA_transform,0.35653654624,2016-11-15 11:52:35.316000
+LogisticRegression,polyfit smooth_sample variance_feature local_maxima_3,0.361714016419,2016-11-15 11:52:35.791000
+LogisticRegression,polyfit smooth_sample variance_feature local_maxima_without_smoothing,0.371773289274,2016-11-15 11:52:36.400000
+LogisticRegression,polyfit smooth_sample variance_feature PCA_transform,0.341415685467,2016-11-15 11:52:36.532000
+LogisticRegression,polyfit smooth_sample local_maxima_3 local_maxima_without_smoothing,0.393556177568,2016-11-15 11:52:36.948000
+LogisticRegression,polyfit smooth_sample local_maxima_3 PCA_transform,0.36766187321,2016-11-15 11:52:37.380000
+LogisticRegression,polyfit smooth_sample local_maxima_without_smoothing PCA_transform,0.373600051246,2016-11-15 11:52:37.781000
+LogisticRegression,polyfit spread grey_white_ratio mean_feature,0.553733422615,2016-11-15 11:52:38.967000
+LogisticRegression,polyfit spread grey_white_ratio variance_feature,0.639213204507,2016-11-15 11:52:42.789000
+LogisticRegression,polyfit spread grey_white_ratio local_maxima_3,0.63578406092,2016-11-15 11:52:44.108000
+LogisticRegression,polyfit spread grey_white_ratio local_maxima_without_smoothing,0.703409682222,2016-11-15 11:52:45.491000
+LogisticRegression,polyfit spread grey_white_ratio PCA_transform,0.561168639801,2016-11-15 11:52:46.728000
+LogisticRegression,polyfit spread mean_feature variance_feature,0.627671391682,2016-11-15 11:52:50.553000
+LogisticRegression,polyfit spread mean_feature local_maxima_3,0.654664672802,2016-11-15 11:52:51.924000
+LogisticRegression,polyfit spread mean_feature local_maxima_without_smoothing,0.700722872891,2016-11-15 11:52:53.343000
+LogisticRegression,polyfit spread mean_feature PCA_transform,0.574997040953,2016-11-15 11:52:54.622000
+LogisticRegression,polyfit spread variance_feature local_maxima_3,0.693000156889,2016-11-15 11:52:59.260000
+LogisticRegression,polyfit spread variance_feature local_maxima_without_smoothing,0.677416793712,2016-11-15 11:53:02.352000
+LogisticRegression,polyfit spread variance_feature PCA_transform,0.545714574144,2016-11-15 11:53:03.990000
+LogisticRegression,polyfit spread local_maxima_3 local_maxima_without_smoothing,0.737566622971,2016-11-15 11:53:05.381000
+LogisticRegression,polyfit spread local_maxima_3 PCA_transform,0.646641374162,2016-11-15 11:53:06.672000
+LogisticRegression,polyfit spread local_maxima_without_smoothing PCA_transform,0.708089176142,2016-11-15 11:53:07.992000
+LogisticRegression,polyfit grey_white_ratio mean_feature variance_feature,0.376799387018,2016-11-15 11:53:08.075000
+LogisticRegression,polyfit grey_white_ratio mean_feature local_maxima_3,0.389636248207,2016-11-15 11:53:08.186000
+LogisticRegression,polyfit grey_white_ratio mean_feature local_maxima_without_smoothing,0.414044758226,2016-11-15 11:53:08.359000
+LogisticRegression,polyfit grey_white_ratio mean_feature PCA_transform,0.328964452281,2016-11-15 11:53:08.439000
+LogisticRegression,polyfit grey_white_ratio variance_feature local_maxima_3,0.374059508572,2016-11-15 11:53:08.508000
+LogisticRegression,polyfit grey_white_ratio variance_feature local_maxima_without_smoothing,0.393360327361,2016-11-15 11:53:08.592000
+LogisticRegression,polyfit grey_white_ratio variance_feature PCA_transform,0.328554135269,2016-11-15 11:53:08.670000
+LogisticRegression,polyfit grey_white_ratio local_maxima_3 local_maxima_without_smoothing,0.420153553227,2016-11-15 11:53:08.812000
+LogisticRegression,polyfit grey_white_ratio local_maxima_3 PCA_transform,0.336839041939,2016-11-15 11:53:08.888000
+LogisticRegression,polyfit grey_white_ratio local_maxima_without_smoothing PCA_transform,0.346781049191,2016-11-15 11:53:09.008000
+LogisticRegression,polyfit mean_feature variance_feature local_maxima_3,0.378497082496,2016-11-15 11:53:09.139000
+LogisticRegression,polyfit mean_feature variance_feature local_maxima_without_smoothing,0.393983051998,2016-11-15 11:53:09.294000
+LogisticRegression,polyfit mean_feature variance_feature PCA_transform,0.324460986993,2016-11-15 11:53:09.372000
+LogisticRegression,polyfit mean_feature local_maxima_3 local_maxima_without_smoothing,0.41716369944,2016-11-15 11:53:09.594000
+LogisticRegression,polyfit mean_feature local_maxima_3 PCA_transform,0.34114244718,2016-11-15 11:53:09.726000
+LogisticRegression,polyfit mean_feature local_maxima_without_smoothing PCA_transform,0.350036183133,2016-11-15 11:53:09.942000
+LogisticRegression,polyfit variance_feature local_maxima_3 local_maxima_without_smoothing,0.394749671922,2016-11-15 11:53:10.042000
+LogisticRegression,polyfit variance_feature local_maxima_3 PCA_transform,0.343450427236,2016-11-15 11:53:10.196000
+LogisticRegression,polyfit variance_feature local_maxima_without_smoothing PCA_transform,0.350585471481,2016-11-15 11:53:10.496000
+LogisticRegression,polyfit local_maxima_3 local_maxima_without_smoothing PCA_transform,0.359819860855,2016-11-15 11:53:10.659000
+LogisticRegression,border_smooth_sample smooth_sample spread grey_white_ratio,0.535546410242,2016-11-15 11:53:11.822000
+LogisticRegression,border_smooth_sample smooth_sample spread mean_feature,0.538626551095,2016-11-15 11:53:13.010000
+LogisticRegression,border_smooth_sample smooth_sample spread variance_feature,0.557380552761,2016-11-15 11:53:15.443000
+LogisticRegression,border_smooth_sample smooth_sample spread local_maxima_3,0.627455609458,2016-11-15 11:53:16.757000
+LogisticRegression,border_smooth_sample smooth_sample spread local_maxima_without_smoothing,0.680224823179,2016-11-15 11:53:18.029000
+LogisticRegression,border_smooth_sample smooth_sample spread PCA_transform,0.546204141932,2016-11-15 11:53:19.194000
+LogisticRegression,border_smooth_sample smooth_sample grey_white_ratio mean_feature,0.361042616257,2016-11-15 11:53:20.904000
+LogisticRegression,border_smooth_sample smooth_sample grey_white_ratio variance_feature,0.355127694284,2016-11-15 11:53:21.202000
+LogisticRegression,border_smooth_sample smooth_sample grey_white_ratio local_maxima_3,0.37181337708,2016-11-15 11:53:21.588000
+LogisticRegression,border_smooth_sample smooth_sample grey_white_ratio local_maxima_without_smoothing,0.377235449237,2016-11-15 11:53:22.074000
+LogisticRegression,border_smooth_sample smooth_sample grey_white_ratio PCA_transform,0.36117240245,2016-11-15 11:53:22.521000
+LogisticRegression,border_smooth_sample smooth_sample mean_feature variance_feature,0.348383358714,2016-11-15 11:53:22.760000
+LogisticRegression,border_smooth_sample smooth_sample mean_feature local_maxima_3,0.374049310586,2016-11-15 11:53:24.779000
+LogisticRegression,border_smooth_sample smooth_sample mean_feature local_maxima_without_smoothing,0.373700678397,2016-11-15 11:53:25.870000
+LogisticRegression,border_smooth_sample smooth_sample mean_feature PCA_transform,0.360094666478,2016-11-15 11:53:28.097000
+LogisticRegression,border_smooth_sample smooth_sample variance_feature local_maxima_3,0.36809397062,2016-11-15 11:53:28.553000
+LogisticRegression,border_smooth_sample smooth_sample variance_feature local_maxima_without_smoothing,0.367267892749,2016-11-15 11:53:28.923000
+LogisticRegression,border_smooth_sample smooth_sample variance_feature PCA_transform,0.344593185994,2016-11-15 11:53:29.155000
+LogisticRegression,border_smooth_sample smooth_sample local_maxima_3 local_maxima_without_smoothing,0.392745817034,2016-11-15 11:53:29.656000
+LogisticRegression,border_smooth_sample smooth_sample local_maxima_3 PCA_transform,0.371481235764,2016-11-15 11:53:30.226000
+LogisticRegression,border_smooth_sample smooth_sample local_maxima_without_smoothing PCA_transform,0.377288054528,2016-11-15 11:53:30.790000
+LogisticRegression,border_smooth_sample spread grey_white_ratio mean_feature,0.535834654132,2016-11-15 11:53:31.924000
+LogisticRegression,border_smooth_sample spread grey_white_ratio variance_feature,0.634862680339,2016-11-15 11:53:35.889000
+LogisticRegression,border_smooth_sample spread grey_white_ratio local_maxima_3,0.641475757466,2016-11-15 11:53:37.198000
+LogisticRegression,border_smooth_sample spread grey_white_ratio local_maxima_without_smoothing,0.697233319596,2016-11-15 11:53:38.482000
+LogisticRegression,border_smooth_sample spread grey_white_ratio PCA_transform,0.562575070691,2016-11-15 11:53:39.634000
+LogisticRegression,border_smooth_sample spread mean_feature variance_feature,0.571595869127,2016-11-15 11:53:42.791000
+LogisticRegression,border_smooth_sample spread mean_feature local_maxima_3,0.651835106887,2016-11-15 11:53:44.104000
+LogisticRegression,border_smooth_sample spread mean_feature local_maxima_without_smoothing,0.696352226019,2016-11-15 11:53:45.400000
+LogisticRegression,border_smooth_sample spread mean_feature PCA_transform,0.563370349382,2016-11-15 11:53:46.581000
+LogisticRegression,border_smooth_sample spread variance_feature local_maxima_3,0.644237857584,2016-11-15 11:53:49.966000
+LogisticRegression,border_smooth_sample spread variance_feature local_maxima_without_smoothing,0.631359217834,2016-11-15 11:53:52.223000
+LogisticRegression,border_smooth_sample spread variance_feature PCA_transform,0.571081049063,2016-11-15 11:53:54.513000
+LogisticRegression,border_smooth_sample spread local_maxima_3 local_maxima_without_smoothing,0.73404633823,2016-11-15 11:53:55.939000
+LogisticRegression,border_smooth_sample spread local_maxima_3 PCA_transform,0.644074519885,2016-11-15 11:53:57.234000
+LogisticRegression,border_smooth_sample spread local_maxima_without_smoothing PCA_transform,0.707211074345,2016-11-15 11:53:58.559000
+LogisticRegression,border_smooth_sample grey_white_ratio mean_feature variance_feature,0.351753439345,2016-11-15 11:53:59.001000
+LogisticRegression,border_smooth_sample grey_white_ratio mean_feature local_maxima_3,0.377216773082,2016-11-15 11:54:00.418000
+LogisticRegression,border_smooth_sample grey_white_ratio mean_feature local_maxima_without_smoothing,0.376138706403,2016-11-15 11:54:00.925000
+LogisticRegression,border_smooth_sample grey_white_ratio mean_feature PCA_transform,0.364409884313,2016-11-15 11:54:02.471000
+LogisticRegression,border_smooth_sample grey_white_ratio variance_feature local_maxima_3,0.369656483771,2016-11-15 11:54:03.035000
+LogisticRegression,border_smooth_sample grey_white_ratio variance_feature local_maxima_without_smoothing,0.374431494134,2016-11-15 11:54:03.793000
+LogisticRegression,border_smooth_sample grey_white_ratio variance_feature PCA_transform,0.347718592113,2016-11-15 11:54:03.938000
+LogisticRegression,border_smooth_sample grey_white_ratio local_maxima_3 local_maxima_without_smoothing,0.394028031129,2016-11-15 11:54:04.273000
+LogisticRegression,border_smooth_sample grey_white_ratio local_maxima_3 PCA_transform,0.375002587643,2016-11-15 11:54:04.721000
+LogisticRegression,border_smooth_sample grey_white_ratio local_maxima_without_smoothing PCA_transform,0.380862737511,2016-11-15 11:54:05.191000
+LogisticRegression,border_smooth_sample mean_feature variance_feature local_maxima_3,0.366862061787,2016-11-15 11:54:05.596000
+LogisticRegression,border_smooth_sample mean_feature variance_feature local_maxima_without_smoothing,0.373222890493,2016-11-15 11:54:06.060000
+LogisticRegression,border_smooth_sample mean_feature variance_feature PCA_transform,0.340715462264,2016-11-15 11:54:06.181000
+LogisticRegression,border_smooth_sample mean_feature local_maxima_3 local_maxima_without_smoothing,0.395309603424,2016-11-15 11:54:07.043000
+LogisticRegression,border_smooth_sample mean_feature local_maxima_3 PCA_transform,0.37217448335,2016-11-15 11:54:08.878000
+LogisticRegression,border_smooth_sample mean_feature local_maxima_without_smoothing PCA_transform,0.378661155147,2016-11-15 11:54:09.696000
+LogisticRegression,border_smooth_sample variance_feature local_maxima_3 local_maxima_without_smoothing,0.387732244448,2016-11-15 11:54:10.697000
+LogisticRegression,border_smooth_sample variance_feature local_maxima_3 PCA_transform,0.360542766635,2016-11-15 11:54:11.479000
+LogisticRegression,border_smooth_sample variance_feature local_maxima_without_smoothing PCA_transform,0.377433543871,2016-11-15 11:54:12.450000
+LogisticRegression,border_smooth_sample local_maxima_3 local_maxima_without_smoothing PCA_transform,0.392965850715,2016-11-15 11:54:12.967000
+LogisticRegression,smooth_sample spread grey_white_ratio mean_feature,0.552497801451,2016-11-15 11:54:14.099000
+LogisticRegression,smooth_sample spread grey_white_ratio variance_feature,0.66963390235,2016-11-15 11:54:17.385000
+LogisticRegression,smooth_sample spread grey_white_ratio local_maxima_3,0.643161171803,2016-11-15 11:54:18.652000
+LogisticRegression,smooth_sample spread grey_white_ratio local_maxima_without_smoothing,0.696736100379,2016-11-15 11:54:19.937000
+LogisticRegression,smooth_sample spread grey_white_ratio PCA_transform,0.557756343704,2016-11-15 11:54:21.128000
+LogisticRegression,smooth_sample spread mean_feature variance_feature,0.637200858509,2016-11-15 11:54:24.764000
+LogisticRegression,smooth_sample spread mean_feature local_maxima_3,0.654678803633,2016-11-15 11:54:26.037000
+LogisticRegression,smooth_sample spread mean_feature local_maxima_without_smoothing,0.703068513284,2016-11-15 11:54:27.338000
+LogisticRegression,smooth_sample spread mean_feature PCA_transform,0.567944317557,2016-11-15 11:54:28.519000
+LogisticRegression,smooth_sample spread variance_feature local_maxima_3,0.652141670043,2016-11-15 11:54:32.010000
+LogisticRegression,smooth_sample spread variance_feature local_maxima_without_smoothing,0.657648697059,2016-11-15 11:54:35.705000
+LogisticRegression,smooth_sample spread variance_feature PCA_transform,0.57305302285,2016-11-15 11:54:43.324000
+LogisticRegression,smooth_sample spread local_maxima_3 local_maxima_without_smoothing,0.735995044096,2016-11-15 11:54:44.744000
+LogisticRegression,smooth_sample spread local_maxima_3 PCA_transform,0.645767282942,2016-11-15 11:54:46.051000
+LogisticRegression,smooth_sample spread local_maxima_without_smoothing PCA_transform,0.705569884367,2016-11-15 11:54:47.361000
+LogisticRegression,smooth_sample grey_white_ratio mean_feature variance_feature,0.353587944319,2016-11-15 11:54:47.698000
+LogisticRegression,smooth_sample grey_white_ratio mean_feature local_maxima_3,0.377574385507,2016-11-15 11:54:49.082000
+LogisticRegression,smooth_sample grey_white_ratio mean_feature local_maxima_without_smoothing,0.37721305549,2016-11-15 11:54:49.723000
+LogisticRegression,smooth_sample grey_white_ratio mean_feature PCA_transform,0.361681516479,2016-11-15 11:54:51.176000
+LogisticRegression,smooth_sample grey_white_ratio variance_feature local_maxima_3,0.366892700683,2016-11-15 11:54:51.460000
+LogisticRegression,smooth_sample grey_white_ratio variance_feature local_maxima_without_smoothing,0.371701762846,2016-11-15 11:54:52.005000
+LogisticRegression,smooth_sample grey_white_ratio variance_feature PCA_transform,0.34750005052,2016-11-15 11:54:52.375000
+LogisticRegression,smooth_sample grey_white_ratio local_maxima_3 local_maxima_without_smoothing,0.396395406527,2016-11-15 11:54:52.738000
+LogisticRegression,smooth_sample grey_white_ratio local_maxima_3 PCA_transform,0.371600328108,2016-11-15 11:54:53.140000
+LogisticRegression,smooth_sample grey_white_ratio local_maxima_without_smoothing PCA_transform,0.376773659723,2016-11-15 11:54:53.562000
+LogisticRegression,smooth_sample mean_feature variance_feature local_maxima_3,0.370765640648,2016-11-15 11:54:55.353000
+LogisticRegression,smooth_sample mean_feature variance_feature local_maxima_without_smoothing,0.372668362857,2016-11-15 11:54:55.996000
+LogisticRegression,smooth_sample mean_feature variance_feature PCA_transform,0.341050512829,2016-11-15 11:54:56.324000
+LogisticRegression,smooth_sample mean_feature local_maxima_3 local_maxima_without_smoothing,0.397245182382,2016-11-15 11:54:57.412000
+LogisticRegression,smooth_sample mean_feature local_maxima_3 PCA_transform,0.371574593577,2016-11-15 11:54:59.293000
+LogisticRegression,smooth_sample mean_feature local_maxima_without_smoothing PCA_transform,0.375801073877,2016-11-15 11:55:00.182000
+LogisticRegression,smooth_sample variance_feature local_maxima_3 local_maxima_without_smoothing,0.390033962925,2016-11-15 11:55:01.069000
+LogisticRegression,smooth_sample variance_feature local_maxima_3 PCA_transform,0.362842679678,2016-11-15 11:55:01.670000
+LogisticRegression,smooth_sample variance_feature local_maxima_without_smoothing PCA_transform,0.361355917899,2016-11-15 11:55:02.909000
+LogisticRegression,smooth_sample local_maxima_3 local_maxima_without_smoothing PCA_transform,0.392506811492,2016-11-15 11:55:03.388000
+LogisticRegression,spread grey_white_ratio mean_feature variance_feature,0.598402288953,2016-11-15 11:55:06.702000
+LogisticRegression,spread grey_white_ratio mean_feature local_maxima_3,0.650421351566,2016-11-15 11:55:08.026000
+LogisticRegression,spread grey_white_ratio mean_feature local_maxima_without_smoothing,0.701080543641,2016-11-15 11:55:09.322000
+LogisticRegression,spread grey_white_ratio mean_feature PCA_transform,0.588912800331,2016-11-15 11:55:10.520000
+LogisticRegression,spread grey_white_ratio variance_feature local_maxima_3,0.673750186695,2016-11-15 11:55:14.693000
+LogisticRegression,spread grey_white_ratio variance_feature local_maxima_without_smoothing,0.677548811077,2016-11-15 11:55:17.942000
+LogisticRegression,spread grey_white_ratio variance_feature PCA_transform,0.560693233207,2016-11-15 11:55:21.871000
+LogisticRegression,spread grey_white_ratio local_maxima_3 local_maxima_without_smoothing,0.721961066769,2016-11-15 11:55:23.326000
+LogisticRegression,spread grey_white_ratio local_maxima_3 PCA_transform,0.648274487339,2016-11-15 11:55:24.699000
+LogisticRegression,spread grey_white_ratio local_maxima_without_smoothing PCA_transform,0.717561408013,2016-11-15 11:55:26.022000
+LogisticRegression,spread mean_feature variance_feature local_maxima_3,0.73348363076,2016-11-15 11:55:30.900000
+LogisticRegression,spread mean_feature variance_feature local_maxima_without_smoothing,0.683949502265,2016-11-15 11:55:33.892000
+LogisticRegression,spread mean_feature variance_feature PCA_transform,0.534348186778,2016-11-15 11:55:35.406000
+LogisticRegression,spread mean_feature local_maxima_3 local_maxima_without_smoothing,0.74378243805,2016-11-15 11:55:36.844000
+LogisticRegression,spread mean_feature local_maxima_3 PCA_transform,0.664085325762,2016-11-15 11:55:38.169000
+LogisticRegression,spread mean_feature local_maxima_without_smoothing PCA_transform,0.705744703452,2016-11-15 11:55:39.458000
+LogisticRegression,spread variance_feature local_maxima_3 local_maxima_without_smoothing,0.712958067133,2016-11-15 11:55:43.508000
+LogisticRegression,spread variance_feature local_maxima_3 PCA_transform,0.617503181834,2016-11-15 11:55:54.023000
+LogisticRegression,spread variance_feature local_maxima_without_smoothing PCA_transform,0.700484327809,2016-11-15 11:55:58.901000
+LogisticRegression,spread local_maxima_3 local_maxima_without_smoothing PCA_transform,0.689722579755,2016-11-15 11:56:00.451000
+LogisticRegression,grey_white_ratio mean_feature variance_feature local_maxima_3,0.388676783814,2016-11-15 11:56:00.589000
+LogisticRegression,grey_white_ratio mean_feature variance_feature local_maxima_without_smoothing,0.402791056049,2016-11-15 11:56:00.769000
+LogisticRegression,grey_white_ratio mean_feature variance_feature PCA_transform,0.328455964137,2016-11-15 11:56:00.825000
+LogisticRegression,grey_white_ratio mean_feature local_maxima_3 local_maxima_without_smoothing,0.430645156341,2016-11-15 11:56:01.042000
+LogisticRegression,grey_white_ratio mean_feature local_maxima_3 PCA_transform,0.342140862013,2016-11-15 11:56:01.143000
+LogisticRegression,grey_white_ratio mean_feature local_maxima_without_smoothing PCA_transform,0.349913607357,2016-11-15 11:56:01.327000
+LogisticRegression,grey_white_ratio variance_feature local_maxima_3 local_maxima_without_smoothing,0.404958955771,2016-11-15 11:56:01.427000
+LogisticRegression,grey_white_ratio variance_feature local_maxima_3 PCA_transform,0.343347481509,2016-11-15 11:56:01.543000
+LogisticRegression,grey_white_ratio variance_feature local_maxima_without_smoothing PCA_transform,0.349346428215,2016-11-15 11:56:01.812000
+LogisticRegression,grey_white_ratio local_maxima_3 local_maxima_without_smoothing PCA_transform,0.360728384064,2016-11-15 11:56:01.944000
+LogisticRegression,mean_feature variance_feature local_maxima_3 local_maxima_without_smoothing,0.402159603009,2016-11-15 11:56:02.160000
+LogisticRegression,mean_feature variance_feature local_maxima_3 PCA_transform,0.338603770419,2016-11-15 11:56:02.430000
+LogisticRegression,mean_feature variance_feature local_maxima_without_smoothing PCA_transform,0.350392790037,2016-11-15 11:56:03.100000
+LogisticRegression,mean_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.359274888211,2016-11-15 11:56:03.300000
+LogisticRegression,variance_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.360379768157,2016-11-15 11:56:03.628000
+LogisticRegression,polyfit border_smooth_sample smooth_sample spread grey_white_ratio,0.530526657233,2016-11-15 11:56:04.785000
+LogisticRegression,polyfit border_smooth_sample smooth_sample spread mean_feature,0.535098453283,2016-11-15 11:56:06.003000
+LogisticRegression,polyfit border_smooth_sample smooth_sample spread variance_feature,0.593985797878,2016-11-15 11:56:09.177000
+LogisticRegression,polyfit border_smooth_sample smooth_sample spread local_maxima_3,0.639215812341,2016-11-15 11:56:10.566000
+LogisticRegression,polyfit border_smooth_sample smooth_sample spread local_maxima_without_smoothing,0.686058716437,2016-11-15 11:56:11.878000
+LogisticRegression,polyfit border_smooth_sample smooth_sample spread PCA_transform,0.548443095298,2016-11-15 11:56:13.093000
+LogisticRegression,polyfit border_smooth_sample smooth_sample grey_white_ratio mean_feature,0.36111324629,2016-11-15 11:56:14.873000
+LogisticRegression,polyfit border_smooth_sample smooth_sample grey_white_ratio variance_feature,0.355306036685,2016-11-15 11:56:15.346000
+LogisticRegression,polyfit border_smooth_sample smooth_sample grey_white_ratio local_maxima_3,0.371389270452,2016-11-15 11:56:15.729000
+LogisticRegression,polyfit border_smooth_sample smooth_sample grey_white_ratio local_maxima_without_smoothing,0.376999311984,2016-11-15 11:56:16.200000
+LogisticRegression,polyfit border_smooth_sample smooth_sample grey_white_ratio PCA_transform,0.361449191221,2016-11-15 11:56:16.670000
+LogisticRegression,polyfit border_smooth_sample smooth_sample mean_feature variance_feature,0.345709761396,2016-11-15 11:56:16.901000
+LogisticRegression,polyfit border_smooth_sample smooth_sample mean_feature local_maxima_3,0.374273291511,2016-11-15 11:56:19.028000
+LogisticRegression,polyfit border_smooth_sample smooth_sample mean_feature local_maxima_without_smoothing,0.373684300628,2016-11-15 11:56:20.186000
+LogisticRegression,polyfit border_smooth_sample smooth_sample mean_feature PCA_transform,0.35993428693,2016-11-15 11:56:22.046000
+LogisticRegression,polyfit border_smooth_sample smooth_sample variance_feature local_maxima_3,0.364360063003,2016-11-15 11:56:22.397000
+LogisticRegression,polyfit border_smooth_sample smooth_sample variance_feature local_maxima_without_smoothing,0.367564073012,2016-11-15 11:56:22.938000
+LogisticRegression,polyfit border_smooth_sample smooth_sample variance_feature PCA_transform,0.34610086505,2016-11-15 11:56:23.413000
+LogisticRegression,polyfit border_smooth_sample smooth_sample local_maxima_3 local_maxima_without_smoothing,0.393520637221,2016-11-15 11:56:23.962000
+LogisticRegression,polyfit border_smooth_sample smooth_sample local_maxima_3 PCA_transform,0.371457675169,2016-11-15 11:56:24.484000
+LogisticRegression,polyfit border_smooth_sample smooth_sample local_maxima_without_smoothing PCA_transform,0.375834018548,2016-11-15 11:56:25.033000
+LogisticRegression,polyfit border_smooth_sample spread grey_white_ratio mean_feature,0.5763635343,2016-11-15 11:56:26.260000
+LogisticRegression,polyfit border_smooth_sample spread grey_white_ratio variance_feature,0.656921018843,2016-11-15 11:56:30.756000
+LogisticRegression,polyfit border_smooth_sample spread grey_white_ratio local_maxima_3,0.631818612408,2016-11-15 11:56:32.044000
+LogisticRegression,polyfit border_smooth_sample spread grey_white_ratio local_maxima_without_smoothing,0.703396136263,2016-11-15 11:56:33.350000
+LogisticRegression,polyfit border_smooth_sample spread grey_white_ratio PCA_transform,0.559690979597,2016-11-15 11:56:34.619000
+LogisticRegression,polyfit border_smooth_sample spread mean_feature variance_feature,0.559876545494,2016-11-15 11:56:37.099000
+LogisticRegression,polyfit border_smooth_sample spread mean_feature local_maxima_3,0.648943514847,2016-11-15 11:56:38.412000
+LogisticRegression,polyfit border_smooth_sample spread mean_feature local_maxima_without_smoothing,0.695180799997,2016-11-15 11:56:39.771000
+LogisticRegression,polyfit border_smooth_sample spread mean_feature PCA_transform,0.565495494781,2016-11-15 11:56:41.045000
+LogisticRegression,polyfit border_smooth_sample spread variance_feature local_maxima_3,0.708924022103,2016-11-15 11:56:47.159000
+LogisticRegression,polyfit border_smooth_sample spread variance_feature local_maxima_without_smoothing,0.665231720834,2016-11-15 11:56:49.712000
+LogisticRegression,polyfit border_smooth_sample spread variance_feature PCA_transform,0.591856729425,2016-11-15 11:56:54.589000
+LogisticRegression,polyfit border_smooth_sample spread local_maxima_3 local_maxima_without_smoothing,0.747042128745,2016-11-15 11:56:56.082000
+LogisticRegression,polyfit border_smooth_sample spread local_maxima_3 PCA_transform,0.639364381894,2016-11-15 11:56:58.291000
+LogisticRegression,polyfit border_smooth_sample spread local_maxima_without_smoothing PCA_transform,0.698866688595,2016-11-15 11:56:59.603000
+LogisticRegression,polyfit border_smooth_sample grey_white_ratio mean_feature variance_feature,0.351475981137,2016-11-15 11:56:59.807000
+LogisticRegression,polyfit border_smooth_sample grey_white_ratio mean_feature local_maxima_3,0.378249471007,2016-11-15 11:57:01.323000
+LogisticRegression,polyfit border_smooth_sample grey_white_ratio mean_feature local_maxima_without_smoothing,0.376437643437,2016-11-15 11:57:01.849000
+LogisticRegression,polyfit border_smooth_sample grey_white_ratio mean_feature PCA_transform,0.364163509569,2016-11-15 11:57:03.086000
+LogisticRegression,polyfit border_smooth_sample grey_white_ratio variance_feature local_maxima_3,0.364737908143,2016-11-15 11:57:03.319000
+LogisticRegression,polyfit border_smooth_sample grey_white_ratio variance_feature local_maxima_without_smoothing,0.363694302993,2016-11-15 11:57:03.642000
+LogisticRegression,polyfit border_smooth_sample grey_white_ratio variance_feature PCA_transform,0.346750813513,2016-11-15 11:57:03.788000
+LogisticRegression,polyfit border_smooth_sample grey_white_ratio local_maxima_3 local_maxima_without_smoothing,0.394895726711,2016-11-15 11:57:04.142000
+LogisticRegression,polyfit border_smooth_sample grey_white_ratio local_maxima_3 PCA_transform,0.374659009209,2016-11-15 11:57:04.590000
+LogisticRegression,polyfit border_smooth_sample grey_white_ratio local_maxima_without_smoothing PCA_transform,0.381451471728,2016-11-15 11:57:05.023000
+LogisticRegression,polyfit border_smooth_sample mean_feature variance_feature local_maxima_3,0.369315047323,2016-11-15 11:57:05.593000
+LogisticRegression,polyfit border_smooth_sample mean_feature variance_feature local_maxima_without_smoothing,0.373253844677,2016-11-15 11:57:06.025000
+LogisticRegression,polyfit border_smooth_sample mean_feature variance_feature PCA_transform,0.341330638149,2016-11-15 11:57:06.147000
+LogisticRegression,polyfit border_smooth_sample mean_feature local_maxima_3 local_maxima_without_smoothing,0.395670474342,2016-11-15 11:57:06.927000
+LogisticRegression,polyfit border_smooth_sample mean_feature local_maxima_3 PCA_transform,0.372199821708,2016-11-15 11:57:08.805000
+LogisticRegression,polyfit border_smooth_sample mean_feature local_maxima_without_smoothing PCA_transform,0.378484029487,2016-11-15 11:57:09.653000
+LogisticRegression,polyfit border_smooth_sample variance_feature local_maxima_3 local_maxima_without_smoothing,0.38812102897,2016-11-15 11:57:10.312000
+LogisticRegression,polyfit border_smooth_sample variance_feature local_maxima_3 PCA_transform,0.361451600573,2016-11-15 11:57:10.528000
+LogisticRegression,polyfit border_smooth_sample variance_feature local_maxima_without_smoothing PCA_transform,0.371895059178,2016-11-15 11:57:11.348000
+LogisticRegression,polyfit border_smooth_sample local_maxima_3 local_maxima_without_smoothing PCA_transform,0.392651298257,2016-11-15 11:57:11.914000
+LogisticRegression,polyfit smooth_sample spread grey_white_ratio mean_feature,0.551997239633,2016-11-15 11:57:13.049000
+LogisticRegression,polyfit smooth_sample spread grey_white_ratio variance_feature,0.673654800774,2016-11-15 11:57:17.166000
+LogisticRegression,polyfit smooth_sample spread grey_white_ratio local_maxima_3,0.632216670083,2016-11-15 11:57:18.445000
+LogisticRegression,polyfit smooth_sample spread grey_white_ratio local_maxima_without_smoothing,0.686282533008,2016-11-15 11:57:19.768000
+LogisticRegression,polyfit smooth_sample spread grey_white_ratio PCA_transform,0.564527891367,2016-11-15 11:57:20.961000
+LogisticRegression,polyfit smooth_sample spread mean_feature variance_feature,0.621635808667,2016-11-15 11:57:24.189000
+LogisticRegression,polyfit smooth_sample spread mean_feature local_maxima_3,0.644416657418,2016-11-15 11:57:25.457000
+LogisticRegression,polyfit smooth_sample spread mean_feature local_maxima_without_smoothing,0.698936231056,2016-11-15 11:57:26.772000
+LogisticRegression,polyfit smooth_sample spread mean_feature PCA_transform,0.567022102929,2016-11-15 11:57:28.001000
+LogisticRegression,polyfit smooth_sample spread variance_feature local_maxima_3,0.701554249309,2016-11-15 11:57:32.822000
+LogisticRegression,polyfit smooth_sample spread variance_feature local_maxima_without_smoothing,0.625360489615,2016-11-15 11:57:35.560000
+LogisticRegression,polyfit smooth_sample spread variance_feature PCA_transform,0.539675797652,2016-11-15 11:57:41.862000
+LogisticRegression,polyfit smooth_sample spread local_maxima_3 local_maxima_without_smoothing,0.737254194577,2016-11-15 11:57:43.346000
+LogisticRegression,polyfit smooth_sample spread local_maxima_3 PCA_transform,0.639757217669,2016-11-15 11:57:44.638000
+LogisticRegression,polyfit smooth_sample spread local_maxima_without_smoothing PCA_transform,0.70303082541,2016-11-15 11:57:45.952000
+LogisticRegression,polyfit smooth_sample grey_white_ratio mean_feature variance_feature,0.348307757157,2016-11-15 11:57:46.083000
+LogisticRegression,polyfit smooth_sample grey_white_ratio mean_feature local_maxima_3,0.37761576894,2016-11-15 11:57:47.504000
+LogisticRegression,polyfit smooth_sample grey_white_ratio mean_feature local_maxima_without_smoothing,0.377149156064,2016-11-15 11:57:48.110000
+LogisticRegression,polyfit smooth_sample grey_white_ratio mean_feature PCA_transform,0.361855431047,2016-11-15 11:57:49.452000
+LogisticRegression,polyfit smooth_sample grey_white_ratio variance_feature local_maxima_3,0.365932227433,2016-11-15 11:57:50.195000
+LogisticRegression,polyfit smooth_sample grey_white_ratio variance_feature local_maxima_without_smoothing,0.370812857737,2016-11-15 11:57:50.668000
+LogisticRegression,polyfit smooth_sample grey_white_ratio variance_feature PCA_transform,0.344161705137,2016-11-15 11:57:50.800000
+LogisticRegression,polyfit smooth_sample grey_white_ratio local_maxima_3 local_maxima_without_smoothing,0.397034945828,2016-11-15 11:57:51.169000
+LogisticRegression,polyfit smooth_sample grey_white_ratio local_maxima_3 PCA_transform,0.372121867848,2016-11-15 11:57:51.570000
+LogisticRegression,polyfit smooth_sample grey_white_ratio local_maxima_without_smoothing PCA_transform,0.377292354744,2016-11-15 11:57:52.003000
+LogisticRegression,polyfit smooth_sample mean_feature variance_feature local_maxima_3,0.362285171477,2016-11-15 11:57:52.657000
+LogisticRegression,polyfit smooth_sample mean_feature variance_feature local_maxima_without_smoothing,0.374011676914,2016-11-15 11:57:53.243000
+LogisticRegression,polyfit smooth_sample mean_feature variance_feature PCA_transform,0.347644557939,2016-11-15 11:57:53.614000
+LogisticRegression,polyfit smooth_sample mean_feature local_maxima_3 local_maxima_without_smoothing,0.396503586776,2016-11-15 11:57:54.579000
+LogisticRegression,polyfit smooth_sample mean_feature local_maxima_3 PCA_transform,0.371726020686,2016-11-15 11:57:56.461000
+LogisticRegression,polyfit smooth_sample mean_feature local_maxima_without_smoothing PCA_transform,0.3758173474,2016-11-15 11:57:57.246000
+LogisticRegression,polyfit smooth_sample variance_feature local_maxima_3 local_maxima_without_smoothing,0.390356444594,2016-11-15 11:57:58.385000
+LogisticRegression,polyfit smooth_sample variance_feature local_maxima_3 PCA_transform,0.357028967045,2016-11-15 11:57:58.916000
+LogisticRegression,polyfit smooth_sample variance_feature local_maxima_without_smoothing PCA_transform,0.369721191915,2016-11-15 11:57:59.883000
+LogisticRegression,polyfit smooth_sample local_maxima_3 local_maxima_without_smoothing PCA_transform,0.391987560328,2016-11-15 11:58:00.400000
+LogisticRegression,polyfit spread grey_white_ratio mean_feature variance_feature,0.678110773051,2016-11-15 11:58:05.439000
+LogisticRegression,polyfit spread grey_white_ratio mean_feature local_maxima_3,0.661658165611,2016-11-15 11:58:06.763000
+LogisticRegression,polyfit spread grey_white_ratio mean_feature local_maxima_without_smoothing,0.705430018627,2016-11-15 11:58:08.100000
+LogisticRegression,polyfit spread grey_white_ratio mean_feature PCA_transform,0.575731590447,2016-11-15 11:58:09.288000
+LogisticRegression,polyfit spread grey_white_ratio variance_feature local_maxima_3,0.610242333013,2016-11-15 11:58:11.691000
+LogisticRegression,polyfit spread grey_white_ratio variance_feature local_maxima_without_smoothing,0.656110597106,2016-11-15 11:58:14.228000
+LogisticRegression,polyfit spread grey_white_ratio variance_feature PCA_transform,0.60894247826,2016-11-15 11:58:20.642000
+LogisticRegression,polyfit spread grey_white_ratio local_maxima_3 local_maxima_without_smoothing,0.717920751971,2016-11-15 11:58:22.127000
+LogisticRegression,polyfit spread grey_white_ratio local_maxima_3 PCA_transform,0.64539214228,2016-11-15 11:58:23.433000
+LogisticRegression,polyfit spread grey_white_ratio local_maxima_without_smoothing PCA_transform,0.716780721975,2016-11-15 11:58:24.732000
+LogisticRegression,polyfit spread mean_feature variance_feature local_maxima_3,0.640197687638,2016-11-15 11:58:27.640000
+LogisticRegression,polyfit spread mean_feature variance_feature local_maxima_without_smoothing,0.726829574508,2016-11-15 11:58:30.952000
+LogisticRegression,polyfit spread mean_feature variance_feature PCA_transform,0.538579556413,2016-11-15 11:58:37.278000
+LogisticRegression,polyfit spread mean_feature local_maxima_3 local_maxima_without_smoothing,0.74605565822,2016-11-15 11:58:38.741000
+LogisticRegression,polyfit spread mean_feature local_maxima_3 PCA_transform,0.660967092085,2016-11-15 11:58:40.040000
+LogisticRegression,polyfit spread mean_feature local_maxima_without_smoothing PCA_transform,0.713554017796,2016-11-15 11:58:41.419000
+LogisticRegression,polyfit spread variance_feature local_maxima_3 local_maxima_without_smoothing,0.743577756665,2016-11-15 11:58:46.055000
+LogisticRegression,polyfit spread variance_feature local_maxima_3 PCA_transform,0.608079644148,2016-11-15 11:58:55.146000
+LogisticRegression,polyfit spread variance_feature local_maxima_without_smoothing PCA_transform,0.67155381785,2016-11-15 11:58:58.998000
+LogisticRegression,polyfit spread local_maxima_3 local_maxima_without_smoothing PCA_transform,0.690824113225,2016-11-15 11:59:00.466000
+LogisticRegression,polyfit grey_white_ratio mean_feature variance_feature local_maxima_3,0.380334207098,2016-11-15 11:59:00.592000
+LogisticRegression,polyfit grey_white_ratio mean_feature variance_feature local_maxima_without_smoothing,0.399495763958,2016-11-15 11:59:00.762000
+LogisticRegression,polyfit grey_white_ratio mean_feature variance_feature PCA_transform,0.329511690865,2016-11-15 11:59:00.845000
+LogisticRegression,polyfit grey_white_ratio mean_feature local_maxima_3 local_maxima_without_smoothing,0.418792720475,2016-11-15 11:59:01.077000
+LogisticRegression,polyfit grey_white_ratio mean_feature local_maxima_3 PCA_transform,0.34576892426,2016-11-15 11:59:01.208000
+LogisticRegression,polyfit grey_white_ratio mean_feature local_maxima_without_smoothing PCA_transform,0.353768397484,2016-11-15 11:59:01.424000
+LogisticRegression,polyfit grey_white_ratio variance_feature local_maxima_3 local_maxima_without_smoothing,0.400493925847,2016-11-15 11:59:01.546000
+LogisticRegression,polyfit grey_white_ratio variance_feature local_maxima_3 PCA_transform,0.348374874081,2016-11-15 11:59:01.693000
+LogisticRegression,polyfit grey_white_ratio variance_feature local_maxima_without_smoothing PCA_transform,0.353722043292,2016-11-15 11:59:01.947000
+LogisticRegression,polyfit grey_white_ratio local_maxima_3 local_maxima_without_smoothing PCA_transform,0.363533781019,2016-11-15 11:59:02.110000
+LogisticRegression,polyfit mean_feature variance_feature local_maxima_3 local_maxima_without_smoothing,0.399982366891,2016-11-15 11:59:02.279000
+LogisticRegression,polyfit mean_feature variance_feature local_maxima_3 PCA_transform,0.346319895868,2016-11-15 11:59:02.727000
+LogisticRegression,polyfit mean_feature variance_feature local_maxima_without_smoothing PCA_transform,0.354865221062,2016-11-15 11:59:03.388000
+LogisticRegression,polyfit mean_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.363951198584,2016-11-15 11:59:03.610000
+LogisticRegression,polyfit variance_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.365442773447,2016-11-15 11:59:03.989000
+LogisticRegression,border_smooth_sample smooth_sample spread grey_white_ratio mean_feature,0.548046920646,2016-11-15 11:59:05.164000
+LogisticRegression,border_smooth_sample smooth_sample spread grey_white_ratio variance_feature,0.579813555471,2016-11-15 11:59:08.788000
+LogisticRegression,border_smooth_sample smooth_sample spread grey_white_ratio local_maxima_3,0.637388962971,2016-11-15 11:59:10.117000
+LogisticRegression,border_smooth_sample smooth_sample spread grey_white_ratio local_maxima_without_smoothing,0.696213102361,2016-11-15 11:59:11.451000
+LogisticRegression,border_smooth_sample smooth_sample spread grey_white_ratio PCA_transform,0.557649334091,2016-11-15 11:59:12.644000
+LogisticRegression,border_smooth_sample smooth_sample spread mean_feature variance_feature,0.525790675908,2016-11-15 11:59:15.208000
+LogisticRegression,border_smooth_sample smooth_sample spread mean_feature local_maxima_3,0.646390870969,2016-11-15 11:59:16.504000
+LogisticRegression,border_smooth_sample smooth_sample spread mean_feature local_maxima_without_smoothing,0.689059487406,2016-11-15 11:59:17.815000
+LogisticRegression,border_smooth_sample smooth_sample spread mean_feature PCA_transform,0.565955697749,2016-11-15 11:59:19.061000
+LogisticRegression,border_smooth_sample smooth_sample spread variance_feature local_maxima_3,0.618416234293,2016-11-15 11:59:21.705000
+LogisticRegression,border_smooth_sample smooth_sample spread variance_feature local_maxima_without_smoothing,0.642444121538,2016-11-15 11:59:24.916000
+LogisticRegression,border_smooth_sample smooth_sample spread variance_feature PCA_transform,0.577101645324,2016-11-15 11:59:30.732000
+LogisticRegression,border_smooth_sample smooth_sample spread local_maxima_3 local_maxima_without_smoothing,0.729858293752,2016-11-15 11:59:32.824000
+LogisticRegression,border_smooth_sample smooth_sample spread local_maxima_3 PCA_transform,0.650444586982,2016-11-15 11:59:34.461000
+LogisticRegression,border_smooth_sample smooth_sample spread local_maxima_without_smoothing PCA_transform,0.710322745038,2016-11-15 11:59:36.039000
+LogisticRegression,border_smooth_sample smooth_sample grey_white_ratio mean_feature variance_feature,0.351170867156,2016-11-15 11:59:36.404000
+LogisticRegression,border_smooth_sample smooth_sample grey_white_ratio mean_feature local_maxima_3,0.379305105678,2016-11-15 13:05:17.726000
+LogisticRegression,border_smooth_sample smooth_sample grey_white_ratio mean_feature local_maxima_without_smoothing,0.3776274089,2016-11-15 13:05:20.512000
+LogisticRegression,border_smooth_sample smooth_sample grey_white_ratio mean_feature PCA_transform,0.364106356666,2016-11-15 13:05:28.782000
+LogisticRegression,border_smooth_sample smooth_sample grey_white_ratio variance_feature local_maxima_3,0.373241360438,2016-11-15 13:05:31.077000
+LogisticRegression,border_smooth_sample smooth_sample grey_white_ratio variance_feature local_maxima_without_smoothing,0.367323956771,2016-11-15 13:05:32.930000
+LogisticRegression,border_smooth_sample smooth_sample grey_white_ratio variance_feature PCA_transform,0.351677222718,2016-11-15 13:05:34.195000
+LogisticRegression,border_smooth_sample smooth_sample grey_white_ratio local_maxima_3 local_maxima_without_smoothing,0.396038278105,2016-11-15 13:05:35.441000
+LogisticRegression,border_smooth_sample smooth_sample grey_white_ratio local_maxima_3 PCA_transform,0.374370195572,2016-11-15 13:05:36.982000
+LogisticRegression,border_smooth_sample smooth_sample grey_white_ratio local_maxima_without_smoothing PCA_transform,0.381432651829,2016-11-15 13:05:38.592000
+LogisticRegression,border_smooth_sample smooth_sample mean_feature variance_feature local_maxima_3,0.36981302525,2016-11-15 13:05:42.122000
+LogisticRegression,border_smooth_sample smooth_sample mean_feature variance_feature local_maxima_without_smoothing,0.363615656664,2016-11-15 13:05:42.746000
+LogisticRegression,border_smooth_sample smooth_sample mean_feature variance_feature PCA_transform,0.350834502851,2016-11-15 13:05:43.527000
+LogisticRegression,border_smooth_sample smooth_sample mean_feature local_maxima_3 local_maxima_without_smoothing,0.397403813774,2016-11-15 13:05:46.999000
+LogisticRegression,border_smooth_sample smooth_sample mean_feature local_maxima_3 PCA_transform,0.373469291627,2016-11-15 13:05:53.998000
+LogisticRegression,border_smooth_sample smooth_sample mean_feature local_maxima_without_smoothing PCA_transform,0.378463021694,2016-11-15 13:05:57.648000
+LogisticRegression,border_smooth_sample smooth_sample variance_feature local_maxima_3 local_maxima_without_smoothing,0.389702745268,2016-11-15 13:06:01.990000
+LogisticRegression,border_smooth_sample smooth_sample variance_feature local_maxima_3 PCA_transform,0.365502962308,2016-11-15 13:06:04.560000
+LogisticRegression,border_smooth_sample smooth_sample variance_feature local_maxima_without_smoothing PCA_transform,0.37370328999,2016-11-15 13:06:07.763000
+LogisticRegression,border_smooth_sample smooth_sample local_maxima_3 local_maxima_without_smoothing PCA_transform,0.393234156413,2016-11-15 13:06:09.466000
+LogisticRegression,border_smooth_sample spread grey_white_ratio mean_feature variance_feature,0.600830088858,2016-11-15 13:06:14.984000
+LogisticRegression,border_smooth_sample spread grey_white_ratio mean_feature local_maxima_3,0.652720922544,2016-11-15 13:06:16.364000
+LogisticRegression,border_smooth_sample spread grey_white_ratio mean_feature local_maxima_without_smoothing,0.69951068895,2016-11-15 13:06:17.788000
+LogisticRegression,border_smooth_sample spread grey_white_ratio mean_feature PCA_transform,0.581033368913,2016-11-15 13:06:19.092000
+LogisticRegression,border_smooth_sample spread grey_white_ratio variance_feature local_maxima_3,0.635506662482,2016-11-15 13:06:22.948000
+LogisticRegression,border_smooth_sample spread grey_white_ratio variance_feature local_maxima_without_smoothing,0.699172353912,2016-11-15 13:06:26.488000
+LogisticRegression,border_smooth_sample spread grey_white_ratio variance_feature PCA_transform,0.569337505077,2016-11-15 13:06:28.665000
+LogisticRegression,border_smooth_sample spread grey_white_ratio local_maxima_3 local_maxima_without_smoothing,0.716912372264,2016-11-15 13:06:32.970000
+LogisticRegression,border_smooth_sample spread grey_white_ratio local_maxima_3 PCA_transform,0.647185832859,2016-11-15 13:06:36.654000
+LogisticRegression,border_smooth_sample spread grey_white_ratio local_maxima_without_smoothing PCA_transform,0.720877429752,2016-11-15 13:06:40.332000
+LogisticRegression,border_smooth_sample spread mean_feature variance_feature local_maxima_3,0.690925865451,2016-11-15 13:07:16.901000
+LogisticRegression,border_smooth_sample spread mean_feature variance_feature local_maxima_without_smoothing,0.692650565451,2016-11-15 13:07:23.616000
+LogisticRegression,border_smooth_sample spread mean_feature variance_feature PCA_transform,0.583223335618,2016-11-15 13:07:30.794000
+LogisticRegression,border_smooth_sample spread mean_feature local_maxima_3 local_maxima_without_smoothing,0.741932159054,2016-11-15 13:07:34.669000
+LogisticRegression,border_smooth_sample spread mean_feature local_maxima_3 PCA_transform,0.655699268919,2016-11-15 13:07:38.142000
+LogisticRegression,border_smooth_sample spread mean_feature local_maxima_without_smoothing PCA_transform,0.702298265143,2016-11-15 13:07:41.546000
+LogisticRegression,border_smooth_sample spread variance_feature local_maxima_3 local_maxima_without_smoothing,0.711143142411,2016-11-15 13:07:50.953000
+LogisticRegression,border_smooth_sample spread variance_feature local_maxima_3 PCA_transform,0.59239655109,2016-11-15 13:07:59.218000
+LogisticRegression,border_smooth_sample spread variance_feature local_maxima_without_smoothing PCA_transform,0.69993817846,2016-11-15 13:08:13.991000
+LogisticRegression,border_smooth_sample spread local_maxima_3 local_maxima_without_smoothing PCA_transform,0.688651646333,2016-11-15 13:08:17.830000
+LogisticRegression,border_smooth_sample grey_white_ratio mean_feature variance_feature local_maxima_3,0.373349678004,2016-11-15 13:08:21.361000
+LogisticRegression,border_smooth_sample grey_white_ratio mean_feature variance_feature local_maxima_without_smoothing,0.374821767281,2016-11-15 13:08:22.587000
+LogisticRegression,border_smooth_sample grey_white_ratio mean_feature variance_feature PCA_transform,0.345375692983,2016-11-15 13:08:23.298000
+LogisticRegression,border_smooth_sample grey_white_ratio mean_feature local_maxima_3 local_maxima_without_smoothing,0.399719568742,2016-11-15 13:08:24.554000
+LogisticRegression,border_smooth_sample grey_white_ratio mean_feature local_maxima_3 PCA_transform,0.377825569417,2016-11-15 13:08:27.688000
+LogisticRegression,border_smooth_sample grey_white_ratio mean_feature local_maxima_without_smoothing PCA_transform,0.383118227196,2016-11-15 13:08:28.924000
+LogisticRegression,border_smooth_sample grey_white_ratio variance_feature local_maxima_3 local_maxima_without_smoothing,0.390302378923,2016-11-15 13:08:30.927000
+LogisticRegression,border_smooth_sample grey_white_ratio variance_feature local_maxima_3 PCA_transform,0.363971083462,2016-11-15 13:08:31.259000
+LogisticRegression,border_smooth_sample grey_white_ratio variance_feature local_maxima_without_smoothing PCA_transform,0.375628965594,2016-11-15 13:08:32.181000
+LogisticRegression,border_smooth_sample grey_white_ratio local_maxima_3 local_maxima_without_smoothing PCA_transform,0.39481005193,2016-11-15 13:08:33.263000
+LogisticRegression,border_smooth_sample mean_feature variance_feature local_maxima_3 local_maxima_without_smoothing,0.387266667623,2016-11-15 13:08:34.943000
+LogisticRegression,border_smooth_sample mean_feature variance_feature local_maxima_3 PCA_transform,0.368179820346,2016-11-15 13:08:35.743000
+LogisticRegression,border_smooth_sample mean_feature variance_feature local_maxima_without_smoothing PCA_transform,0.367109804403,2016-11-15 13:08:36.678000
+LogisticRegression,border_smooth_sample mean_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.39500188216,2016-11-15 13:08:39.198000
+LogisticRegression,border_smooth_sample variance_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.38349312889,2016-11-15 13:08:40.944000
+LogisticRegression,smooth_sample spread grey_white_ratio mean_feature variance_feature,0.514164135129,2016-11-15 13:08:45.090000
+LogisticRegression,smooth_sample spread grey_white_ratio mean_feature local_maxima_3,0.647834500326,2016-11-15 13:08:48.403000
+LogisticRegression,smooth_sample spread grey_white_ratio mean_feature local_maxima_without_smoothing,0.70248824588,2016-11-15 13:08:51.499000
+LogisticRegression,smooth_sample spread grey_white_ratio mean_feature PCA_transform,0.573418918471,2016-11-15 13:08:54.349000
+LogisticRegression,smooth_sample spread grey_white_ratio variance_feature local_maxima_3,0.545594973331,2016-11-15 13:08:57.646000
+LogisticRegression,smooth_sample spread grey_white_ratio variance_feature local_maxima_without_smoothing,0.68112675293,2016-11-15 13:09:04.438000
+LogisticRegression,smooth_sample spread grey_white_ratio variance_feature PCA_transform,0.566462343218,2016-11-15 13:09:19.404000
+LogisticRegression,smooth_sample spread grey_white_ratio local_maxima_3 local_maxima_without_smoothing,0.723398135585,2016-11-15 13:09:23.043000
+LogisticRegression,smooth_sample spread grey_white_ratio local_maxima_3 PCA_transform,0.652195036565,2016-11-15 13:09:26.248000
+LogisticRegression,smooth_sample spread grey_white_ratio local_maxima_without_smoothing PCA_transform,0.719777292425,2016-11-15 13:09:29.532000
+LogisticRegression,smooth_sample spread mean_feature variance_feature local_maxima_3,0.697308625064,2016-11-15 13:09:39.551000
+LogisticRegression,smooth_sample spread mean_feature variance_feature local_maxima_without_smoothing,0.703019016534,2016-11-15 13:09:50.528000
+LogisticRegression,smooth_sample spread mean_feature variance_feature PCA_transform,0.567344549167,2016-11-15 13:09:59.252000
+LogisticRegression,smooth_sample spread mean_feature local_maxima_3 local_maxima_without_smoothing,0.739005205215,2016-11-15 13:10:02.806000
+LogisticRegression,smooth_sample spread mean_feature local_maxima_3 PCA_transform,0.663342673385,2016-11-15 13:10:06.088000
+LogisticRegression,smooth_sample spread mean_feature local_maxima_without_smoothing PCA_transform,0.710995441548,2016-11-15 13:10:09.353000
+LogisticRegression,smooth_sample spread variance_feature local_maxima_3 local_maxima_without_smoothing,0.739477502624,2016-11-15 13:10:20.840000
+LogisticRegression,smooth_sample spread variance_feature local_maxima_3 PCA_transform,0.628996092568,2016-11-15 13:10:31.878000
+LogisticRegression,smooth_sample spread variance_feature local_maxima_without_smoothing PCA_transform,0.706515222477,2016-11-15 13:10:44.252000
+LogisticRegression,smooth_sample spread local_maxima_3 local_maxima_without_smoothing PCA_transform,0.692083319678,2016-11-15 13:10:47.968000
+LogisticRegression,smooth_sample grey_white_ratio mean_feature variance_feature local_maxima_3,0.373847415801,2016-11-15 13:10:50.475000
+LogisticRegression,smooth_sample grey_white_ratio mean_feature variance_feature local_maxima_without_smoothing,0.373262127429,2016-11-15 13:10:51.601000
+LogisticRegression,smooth_sample grey_white_ratio mean_feature variance_feature PCA_transform,0.354417310365,2016-11-15 13:10:52.541000
+LogisticRegression,smooth_sample grey_white_ratio mean_feature local_maxima_3 local_maxima_without_smoothing,0.400043196426,2016-11-15 13:10:54.311000
+LogisticRegression,smooth_sample grey_white_ratio mean_feature local_maxima_3 PCA_transform,0.376931635334,2016-11-15 13:10:58.316000
+LogisticRegression,smooth_sample grey_white_ratio mean_feature local_maxima_without_smoothing PCA_transform,0.379470396585,2016-11-15 13:11:00.198000
+LogisticRegression,smooth_sample grey_white_ratio variance_feature local_maxima_3 local_maxima_without_smoothing,0.394194313812,2016-11-15 13:11:02.879000
+LogisticRegression,smooth_sample grey_white_ratio variance_feature local_maxima_3 PCA_transform,0.37129051044,2016-11-15 13:11:04.592000
+LogisticRegression,smooth_sample grey_white_ratio variance_feature local_maxima_without_smoothing PCA_transform,0.368131335947,2016-11-15 13:11:05.077000
+LogisticRegression,smooth_sample grey_white_ratio local_maxima_3 local_maxima_without_smoothing PCA_transform,0.397694264949,2016-11-15 13:11:06.201000
+LogisticRegression,smooth_sample mean_feature variance_feature local_maxima_3 local_maxima_without_smoothing,0.393571299112,2016-11-15 13:11:09.805000
+LogisticRegression,smooth_sample mean_feature variance_feature local_maxima_3 PCA_transform,0.372130395326,2016-11-15 13:11:13.520000
+LogisticRegression,smooth_sample mean_feature variance_feature local_maxima_without_smoothing PCA_transform,0.36508782781,2016-11-15 13:11:14.597000
+LogisticRegression,smooth_sample mean_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.397076128159,2016-11-15 13:11:17.384000
+LogisticRegression,smooth_sample variance_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.383975934172,2016-11-15 13:11:19.508000
+LogisticRegression,spread grey_white_ratio mean_feature variance_feature local_maxima_3,0.68218902553,2016-11-15 13:11:29.624000
+LogisticRegression,spread grey_white_ratio mean_feature variance_feature local_maxima_without_smoothing,0.702996604969,2016-11-15 13:11:35.858000
+LogisticRegression,spread grey_white_ratio mean_feature variance_feature PCA_transform,0.566657645242,2016-11-15 13:11:43.277000
+LogisticRegression,spread grey_white_ratio mean_feature local_maxima_3 local_maxima_without_smoothing,0.720824188278,2016-11-15 13:11:46.676000
+LogisticRegression,spread grey_white_ratio mean_feature local_maxima_3 PCA_transform,0.664649276719,2016-11-15 13:11:49.587000
+LogisticRegression,spread grey_white_ratio mean_feature local_maxima_without_smoothing PCA_transform,0.730799057416,2016-11-15 13:11:52.456000
+LogisticRegression,spread grey_white_ratio variance_feature local_maxima_3 local_maxima_without_smoothing,0.718772263955,2016-11-15 13:12:01.364000
+LogisticRegression,spread grey_white_ratio variance_feature local_maxima_3 PCA_transform,0.635222326655,2016-11-15 13:12:12.998000
+LogisticRegression,spread grey_white_ratio variance_feature local_maxima_without_smoothing PCA_transform,0.627587298011,2016-11-15 13:12:22.317000
+LogisticRegression,spread grey_white_ratio local_maxima_3 local_maxima_without_smoothing PCA_transform,0.701999659802,2016-11-15 13:12:25.803000
+LogisticRegression,spread mean_feature variance_feature local_maxima_3 local_maxima_without_smoothing,0.668174787421,2016-11-15 13:12:31.565000
+LogisticRegression,spread mean_feature variance_feature local_maxima_3 PCA_transform,0.609420828901,2016-11-15 13:12:37.412000
+LogisticRegression,spread mean_feature variance_feature local_maxima_without_smoothing PCA_transform,0.705057735992,2016-11-15 13:12:46.235000
+LogisticRegression,spread mean_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.687643668617,2016-11-15 13:12:49.623000
+LogisticRegression,spread variance_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.652689392833,2016-11-15 13:12:59.245000
+LogisticRegression,grey_white_ratio mean_feature variance_feature local_maxima_3 local_maxima_without_smoothing,0.407742419151,2016-11-15 13:12:59.822000
+LogisticRegression,grey_white_ratio mean_feature variance_feature local_maxima_3 PCA_transform,0.347187382697,2016-11-15 13:13:00.723000
+LogisticRegression,grey_white_ratio mean_feature variance_feature local_maxima_without_smoothing PCA_transform,0.354293195367,2016-11-15 13:13:02.359000
+LogisticRegression,grey_white_ratio mean_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.363730328095,2016-11-15 13:13:02.785000
+LogisticRegression,grey_white_ratio variance_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.360797817514,2016-11-15 13:13:03.419000
+LogisticRegression,mean_feature variance_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.368875099945,2016-11-15 13:13:07.103000
+LogisticRegression,polyfit border_smooth_sample smooth_sample spread grey_white_ratio mean_feature,0.553249805807,2016-11-15 13:13:09.728000
+LogisticRegression,polyfit border_smooth_sample smooth_sample spread grey_white_ratio variance_feature,0.632528805481,2016-11-15 13:13:18.186000
+LogisticRegression,polyfit border_smooth_sample smooth_sample spread grey_white_ratio local_maxima_3,0.645963934185,2016-11-15 13:13:21.172000
+LogisticRegression,polyfit border_smooth_sample smooth_sample spread grey_white_ratio local_maxima_without_smoothing,0.69749235764,2016-11-15 13:13:23.977000
+LogisticRegression,polyfit border_smooth_sample smooth_sample spread grey_white_ratio PCA_transform,0.565728210124,2016-11-15 13:13:26.432000
+LogisticRegression,polyfit border_smooth_sample smooth_sample spread mean_feature variance_feature,0.623101446178,2016-11-15 13:13:33.786000
+LogisticRegression,polyfit border_smooth_sample smooth_sample spread mean_feature local_maxima_3,0.650204676143,2016-11-15 13:13:36.806000
+LogisticRegression,polyfit border_smooth_sample smooth_sample spread mean_feature local_maxima_without_smoothing,0.704502870483,2016-11-15 13:13:39.847000
+LogisticRegression,polyfit border_smooth_sample smooth_sample spread mean_feature PCA_transform,0.568023436932,2016-11-15 13:13:42.553000
+LogisticRegression,polyfit border_smooth_sample smooth_sample spread variance_feature local_maxima_3,0.696569652021,2016-11-15 13:13:52.771000
+LogisticRegression,polyfit border_smooth_sample smooth_sample spread variance_feature local_maxima_without_smoothing,0.670070916573,2016-11-15 13:14:00.855000
+LogisticRegression,polyfit border_smooth_sample smooth_sample spread variance_feature PCA_transform,0.535837975119,2016-11-15 13:14:03.967000
+LogisticRegression,polyfit border_smooth_sample smooth_sample spread local_maxima_3 local_maxima_without_smoothing,0.739723233918,2016-11-15 13:14:07.205000
+LogisticRegression,polyfit border_smooth_sample smooth_sample spread local_maxima_3 PCA_transform,0.638809658201,2016-11-15 13:14:10.209000
+LogisticRegression,polyfit border_smooth_sample smooth_sample spread local_maxima_without_smoothing PCA_transform,0.708955327062,2016-11-15 13:14:13.336000
+LogisticRegression,polyfit border_smooth_sample smooth_sample grey_white_ratio mean_feature variance_feature,0.355132693199,2016-11-15 13:14:13.956000
+LogisticRegression,polyfit border_smooth_sample smooth_sample grey_white_ratio mean_feature local_maxima_3,0.37924813154,2016-11-15 13:14:18.439000
+LogisticRegression,polyfit border_smooth_sample smooth_sample grey_white_ratio mean_feature local_maxima_without_smoothing,0.377477661521,2016-11-15 13:14:20.833000
+LogisticRegression,polyfit border_smooth_sample smooth_sample grey_white_ratio mean_feature PCA_transform,0.364379233344,2016-11-15 13:14:25.380000
+LogisticRegression,polyfit border_smooth_sample smooth_sample grey_white_ratio variance_feature local_maxima_3,0.374552975943,2016-11-15 13:14:26.976000
+LogisticRegression,polyfit border_smooth_sample smooth_sample grey_white_ratio variance_feature local_maxima_without_smoothing,0.374212203792,2016-11-15 13:14:28.219000
+LogisticRegression,polyfit border_smooth_sample smooth_sample grey_white_ratio variance_feature PCA_transform,0.35791223692,2016-11-15 13:14:29.790000
+LogisticRegression,polyfit border_smooth_sample smooth_sample grey_white_ratio local_maxima_3 local_maxima_without_smoothing,0.396305944084,2016-11-15 13:14:30.833000
+LogisticRegression,polyfit border_smooth_sample smooth_sample grey_white_ratio local_maxima_3 PCA_transform,0.374121173112,2016-11-15 13:14:31.734000
+LogisticRegression,polyfit border_smooth_sample smooth_sample grey_white_ratio local_maxima_without_smoothing PCA_transform,0.381870455434,2016-11-15 13:14:33.160000
+LogisticRegression,polyfit border_smooth_sample smooth_sample mean_feature variance_feature local_maxima_3,0.369329637142,2016-11-15 13:14:34.792000
+LogisticRegression,polyfit border_smooth_sample smooth_sample mean_feature variance_feature local_maxima_without_smoothing,0.368346549936,2016-11-15 13:14:37.036000
+LogisticRegression,polyfit border_smooth_sample smooth_sample mean_feature variance_feature PCA_transform,0.345729700566,2016-11-15 13:14:37.403000
+LogisticRegression,polyfit border_smooth_sample smooth_sample mean_feature local_maxima_3 local_maxima_without_smoothing,0.397119733886,2016-11-15 13:14:40.370000
+LogisticRegression,polyfit border_smooth_sample smooth_sample mean_feature local_maxima_3 PCA_transform,0.373427132253,2016-11-15 13:14:45.484000
+LogisticRegression,polyfit border_smooth_sample smooth_sample mean_feature local_maxima_without_smoothing PCA_transform,0.378902435886,2016-11-15 13:14:48.023000
+LogisticRegression,polyfit border_smooth_sample smooth_sample variance_feature local_maxima_3 local_maxima_without_smoothing,0.388028936597,2016-11-15 13:14:49.584000
+LogisticRegression,polyfit border_smooth_sample smooth_sample variance_feature local_maxima_3 PCA_transform,0.361027113764,2016-11-15 13:14:49.931000
+LogisticRegression,polyfit border_smooth_sample smooth_sample variance_feature local_maxima_without_smoothing PCA_transform,0.370135102663,2016-11-15 13:14:50.870000
+LogisticRegression,polyfit border_smooth_sample smooth_sample local_maxima_3 local_maxima_without_smoothing PCA_transform,0.394106262196,2016-11-15 13:14:52.233000
+LogisticRegression,polyfit border_smooth_sample spread grey_white_ratio mean_feature variance_feature,0.641126285619,2016-11-15 13:14:58.960000
+LogisticRegression,polyfit border_smooth_sample spread grey_white_ratio mean_feature local_maxima_3,0.666942617696,2016-11-15 13:15:02.201000
+LogisticRegression,polyfit border_smooth_sample spread grey_white_ratio mean_feature local_maxima_without_smoothing,0.706111197313,2016-11-15 13:15:05.201000
+LogisticRegression,polyfit border_smooth_sample spread grey_white_ratio mean_feature PCA_transform,0.574469869854,2016-11-15 13:15:07.834000
+LogisticRegression,polyfit border_smooth_sample spread grey_white_ratio variance_feature local_maxima_3,0.642441399274,2016-11-15 13:15:15.748000
+LogisticRegression,polyfit border_smooth_sample spread grey_white_ratio variance_feature local_maxima_without_smoothing,0.751970607626,2016-11-15 13:15:22.943000
+LogisticRegression,polyfit border_smooth_sample spread grey_white_ratio variance_feature PCA_transform,0.628998659961,2016-11-15 13:15:34.667000
+LogisticRegression,polyfit border_smooth_sample spread grey_white_ratio local_maxima_3 local_maxima_without_smoothing,0.710841671424,2016-11-15 13:15:38.100000
+LogisticRegression,polyfit border_smooth_sample spread grey_white_ratio local_maxima_3 PCA_transform,0.648749323999,2016-11-15 13:15:41.082000
+LogisticRegression,polyfit border_smooth_sample spread grey_white_ratio local_maxima_without_smoothing PCA_transform,0.719912041303,2016-11-15 13:15:44.088000
+LogisticRegression,polyfit border_smooth_sample spread mean_feature variance_feature local_maxima_3,0.631364739673,2016-11-15 13:15:49.864000
+LogisticRegression,polyfit border_smooth_sample spread mean_feature variance_feature local_maxima_without_smoothing,0.678703822018,2016-11-15 13:15:55.104000
+LogisticRegression,polyfit border_smooth_sample spread mean_feature variance_feature PCA_transform,0.624389051347,2016-11-15 13:16:10.958000
+LogisticRegression,polyfit border_smooth_sample spread mean_feature local_maxima_3 local_maxima_without_smoothing,0.73923586164,2016-11-15 13:16:14.313000
+LogisticRegression,polyfit border_smooth_sample spread mean_feature local_maxima_3 PCA_transform,0.655453147125,2016-11-15 13:16:17.459000
+LogisticRegression,polyfit border_smooth_sample spread mean_feature local_maxima_without_smoothing PCA_transform,0.70456190127,2016-11-15 13:16:20.433000
+LogisticRegression,polyfit border_smooth_sample spread variance_feature local_maxima_3 local_maxima_without_smoothing,0.712899922077,2016-11-15 13:16:27.320000
+LogisticRegression,polyfit border_smooth_sample spread variance_feature local_maxima_3 PCA_transform,0.670742462769,2016-11-15 13:16:45.399000
+LogisticRegression,polyfit border_smooth_sample spread variance_feature local_maxima_without_smoothing PCA_transform,0.66229558814,2016-11-15 13:16:51.294000
+LogisticRegression,polyfit border_smooth_sample spread local_maxima_3 local_maxima_without_smoothing PCA_transform,0.686959116923,2016-11-15 13:16:54.574000
+LogisticRegression,polyfit border_smooth_sample grey_white_ratio mean_feature variance_feature local_maxima_3,0.375704791006,2016-11-15 13:16:57.432000
+LogisticRegression,polyfit border_smooth_sample grey_white_ratio mean_feature variance_feature local_maxima_without_smoothing,0.376860052261,2016-11-15 13:16:59.067000
+LogisticRegression,polyfit border_smooth_sample grey_white_ratio mean_feature variance_feature PCA_transform,0.358625037814,2016-11-15 13:16:59.678000
+LogisticRegression,polyfit border_smooth_sample grey_white_ratio mean_feature local_maxima_3 local_maxima_without_smoothing,0.398945896686,2016-11-15 13:17:01.329000
+LogisticRegression,polyfit border_smooth_sample grey_white_ratio mean_feature local_maxima_3 PCA_transform,0.377815266529,2016-11-15 13:17:04.716000
+LogisticRegression,polyfit border_smooth_sample grey_white_ratio mean_feature local_maxima_without_smoothing PCA_transform,0.382727737197,2016-11-15 13:17:06.217000
+LogisticRegression,polyfit border_smooth_sample grey_white_ratio variance_feature local_maxima_3 local_maxima_without_smoothing,0.390272190579,2016-11-15 13:17:08.551000
+LogisticRegression,polyfit border_smooth_sample grey_white_ratio variance_feature local_maxima_3 PCA_transform,0.366587155616,2016-11-15 13:17:09.147000
+LogisticRegression,polyfit border_smooth_sample grey_white_ratio variance_feature local_maxima_without_smoothing PCA_transform,0.374920691082,2016-11-15 13:17:10.825000
+LogisticRegression,polyfit border_smooth_sample grey_white_ratio local_maxima_3 local_maxima_without_smoothing PCA_transform,0.397554662778,2016-11-15 13:17:12.309000
+LogisticRegression,polyfit border_smooth_sample mean_feature variance_feature local_maxima_3 local_maxima_without_smoothing,0.388005641418,2016-11-15 13:17:14.257000
+LogisticRegression,polyfit border_smooth_sample mean_feature variance_feature local_maxima_3 PCA_transform,0.364902760359,2016-11-15 13:17:14.743000
+LogisticRegression,polyfit border_smooth_sample mean_feature variance_feature local_maxima_without_smoothing PCA_transform,0.376308591907,2016-11-15 13:17:18.926000
+LogisticRegression,polyfit border_smooth_sample mean_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.396207733316,2016-11-15 13:17:21.709000
+LogisticRegression,polyfit border_smooth_sample variance_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.388345734403,2016-11-15 13:17:27.134000
+LogisticRegression,polyfit smooth_sample spread grey_white_ratio mean_feature variance_feature,0.686562111432,2016-11-15 13:17:35.386000
+LogisticRegression,polyfit smooth_sample spread grey_white_ratio mean_feature local_maxima_3,0.637678742143,2016-11-15 13:17:38.336000
+LogisticRegression,polyfit smooth_sample spread grey_white_ratio mean_feature local_maxima_without_smoothing,0.703471925384,2016-11-15 13:17:41.275000
+LogisticRegression,polyfit smooth_sample spread grey_white_ratio mean_feature PCA_transform,0.576792499541,2016-11-15 13:17:44.116000
+LogisticRegression,polyfit smooth_sample spread grey_white_ratio variance_feature local_maxima_3,0.62629545311,2016-11-15 13:17:50
+LogisticRegression,polyfit smooth_sample spread grey_white_ratio variance_feature local_maxima_without_smoothing,0.710216830568,2016-11-15 13:17:58.188000
+LogisticRegression,polyfit smooth_sample spread grey_white_ratio variance_feature PCA_transform,0.598812070592,2016-11-15 13:18:13.208000
+LogisticRegression,polyfit smooth_sample spread grey_white_ratio local_maxima_3 local_maxima_without_smoothing,0.717993217235,2016-11-15 13:18:16.395000
+LogisticRegression,polyfit smooth_sample spread grey_white_ratio local_maxima_3 PCA_transform,0.655455705366,2016-11-15 13:18:19.375000
+LogisticRegression,polyfit smooth_sample spread grey_white_ratio local_maxima_without_smoothing PCA_transform,0.717997620711,2016-11-15 13:18:22.346000
+LogisticRegression,polyfit smooth_sample spread mean_feature variance_feature local_maxima_3,0.569652031429,2016-11-15 13:18:28.215000
+LogisticRegression,polyfit smooth_sample spread mean_feature variance_feature local_maxima_without_smoothing,0.721499084066,2016-11-15 13:18:36.767000
+LogisticRegression,polyfit smooth_sample spread mean_feature variance_feature PCA_transform,0.602537489947,2016-11-15 13:18:41.728000
+LogisticRegression,polyfit smooth_sample spread mean_feature local_maxima_3 local_maxima_without_smoothing,0.749240617035,2016-11-15 13:18:45.147000
+LogisticRegression,polyfit smooth_sample spread mean_feature local_maxima_3 PCA_transform,0.65533351605,2016-11-15 13:18:48.137000
+LogisticRegression,polyfit smooth_sample spread mean_feature local_maxima_without_smoothing PCA_transform,0.713165823584,2016-11-15 13:18:51.174000
+LogisticRegression,polyfit smooth_sample spread variance_feature local_maxima_3 local_maxima_without_smoothing,0.744429988235,2016-11-15 13:19:02.574000
+LogisticRegression,polyfit smooth_sample spread variance_feature local_maxima_3 PCA_transform,0.646795811347,2016-11-15 13:19:22.505000
+LogisticRegression,polyfit smooth_sample spread variance_feature local_maxima_without_smoothing PCA_transform,0.684076088643,2016-11-15 13:19:27.881000
+LogisticRegression,polyfit smooth_sample spread local_maxima_3 local_maxima_without_smoothing PCA_transform,0.690969670367,2016-11-15 13:19:31.031000
+LogisticRegression,polyfit smooth_sample grey_white_ratio mean_feature variance_feature local_maxima_3,0.372399500099,2016-11-15 13:19:32.781000
+LogisticRegression,polyfit smooth_sample grey_white_ratio mean_feature variance_feature local_maxima_without_smoothing,0.374501169868,2016-11-15 13:19:33.771000
+LogisticRegression,polyfit smooth_sample grey_white_ratio mean_feature variance_feature PCA_transform,0.348485020958,2016-11-15 13:19:35.064000
+LogisticRegression,polyfit smooth_sample grey_white_ratio mean_feature local_maxima_3 local_maxima_without_smoothing,0.400919230496,2016-11-15 13:19:36.787000
+LogisticRegression,polyfit smooth_sample grey_white_ratio mean_feature local_maxima_3 PCA_transform,0.377074080615,2016-11-15 13:19:40.156000
+LogisticRegression,polyfit smooth_sample grey_white_ratio mean_feature local_maxima_without_smoothing PCA_transform,0.379096112068,2016-11-15 13:19:41.772000
+LogisticRegression,polyfit smooth_sample grey_white_ratio variance_feature local_maxima_3 local_maxima_without_smoothing,0.394231841109,2016-11-15 13:19:44.152000
+LogisticRegression,polyfit smooth_sample grey_white_ratio variance_feature local_maxima_3 PCA_transform,0.365265088976,2016-11-15 13:19:44.580000
+LogisticRegression,polyfit smooth_sample grey_white_ratio variance_feature local_maxima_without_smoothing PCA_transform,0.36442835442,2016-11-15 13:19:45.066000
+LogisticRegression,polyfit smooth_sample grey_white_ratio local_maxima_3 local_maxima_without_smoothing PCA_transform,0.397295788495,2016-11-15 13:19:46.008000
+LogisticRegression,polyfit smooth_sample mean_feature variance_feature local_maxima_3 local_maxima_without_smoothing,0.391074634077,2016-11-15 13:19:49.784000
+LogisticRegression,polyfit smooth_sample mean_feature variance_feature local_maxima_3 PCA_transform,0.369878815284,2016-11-15 13:19:51.667000
+LogisticRegression,polyfit smooth_sample mean_feature variance_feature local_maxima_without_smoothing PCA_transform,0.373827922708,2016-11-15 13:19:54.408000
+LogisticRegression,polyfit smooth_sample mean_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.397765524871,2016-11-15 13:19:57.033000
+LogisticRegression,polyfit smooth_sample variance_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.389976064854,2016-11-15 13:20:00.440000
+LogisticRegression,polyfit spread grey_white_ratio mean_feature variance_feature local_maxima_3,0.62548873222,2016-11-15 13:20:06.464000
+LogisticRegression,polyfit spread grey_white_ratio mean_feature variance_feature local_maxima_without_smoothing,0.708061455922,2016-11-15 13:20:12.891000
+LogisticRegression,polyfit spread grey_white_ratio mean_feature variance_feature PCA_transform,0.581812834225,2016-11-15 13:20:22.529000
+LogisticRegression,polyfit spread grey_white_ratio mean_feature local_maxima_3 local_maxima_without_smoothing,0.723353570092,2016-11-15 13:20:25.917000
+LogisticRegression,polyfit spread grey_white_ratio mean_feature local_maxima_3 PCA_transform,0.663642000469,2016-11-15 13:20:28.910000
+LogisticRegression,polyfit spread grey_white_ratio mean_feature local_maxima_without_smoothing PCA_transform,0.725760213847,2016-11-15 13:20:32.248000
+LogisticRegression,polyfit spread grey_white_ratio variance_feature local_maxima_3 local_maxima_without_smoothing,0.705889175906,2016-11-15 13:20:39.769000
+LogisticRegression,polyfit spread grey_white_ratio variance_feature local_maxima_3 PCA_transform,0.583774577591,2016-11-15 13:20:49.455000
+LogisticRegression,polyfit spread grey_white_ratio variance_feature local_maxima_without_smoothing PCA_transform,0.698504503726,2016-11-15 13:20:57.617000
+LogisticRegression,polyfit spread grey_white_ratio local_maxima_3 local_maxima_without_smoothing PCA_transform,0.702487992808,2016-11-15 13:21:01.042000
+LogisticRegression,polyfit spread mean_feature variance_feature local_maxima_3 local_maxima_without_smoothing,0.736730898551,2016-11-15 13:21:09.583000
+LogisticRegression,polyfit spread mean_feature variance_feature local_maxima_3 PCA_transform,0.630736920688,2016-11-15 13:21:16.559000
+LogisticRegression,polyfit spread mean_feature variance_feature local_maxima_without_smoothing PCA_transform,0.699183979514,2016-11-15 13:21:28.874000
+LogisticRegression,polyfit spread mean_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.689127835323,2016-11-15 13:21:32.119000
+LogisticRegression,polyfit spread variance_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.689490113298,2016-11-15 13:21:40.458000
+LogisticRegression,polyfit grey_white_ratio mean_feature variance_feature local_maxima_3 local_maxima_without_smoothing,0.406442660006,2016-11-15 13:21:41.035000
+LogisticRegression,polyfit grey_white_ratio mean_feature variance_feature local_maxima_3 PCA_transform,0.350153346783,2016-11-15 13:21:42.062000
+LogisticRegression,polyfit grey_white_ratio mean_feature variance_feature local_maxima_without_smoothing PCA_transform,0.35963914772,2016-11-15 13:21:43.717000
+LogisticRegression,polyfit grey_white_ratio mean_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.368155962497,2016-11-15 13:21:44.150000
+LogisticRegression,polyfit grey_white_ratio variance_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.369083853169,2016-11-15 13:21:44.706000
+LogisticRegression,polyfit mean_feature variance_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.374874808386,2016-11-15 13:21:48.850000
+LogisticRegression,border_smooth_sample smooth_sample spread grey_white_ratio mean_feature variance_feature,0.637839316106,2016-11-15 13:21:55.562000
+LogisticRegression,border_smooth_sample smooth_sample spread grey_white_ratio mean_feature local_maxima_3,0.6586414803,2016-11-15 13:21:58.562000
+LogisticRegression,border_smooth_sample smooth_sample spread grey_white_ratio mean_feature local_maxima_without_smoothing,0.704573337188,2016-11-15 13:22:01.314000
+LogisticRegression,border_smooth_sample smooth_sample spread grey_white_ratio mean_feature PCA_transform,0.571144908392,2016-11-15 13:22:03.775000
+LogisticRegression,border_smooth_sample smooth_sample spread grey_white_ratio variance_feature local_maxima_3,0.670959851024,2016-11-15 13:22:10.191000
+LogisticRegression,border_smooth_sample smooth_sample spread grey_white_ratio variance_feature local_maxima_without_smoothing,0.739263518542,2016-11-15 13:22:17.232000
+LogisticRegression,border_smooth_sample smooth_sample spread grey_white_ratio variance_feature PCA_transform,0.611054866168,2016-11-15 13:22:35.611000
+LogisticRegression,border_smooth_sample smooth_sample spread grey_white_ratio local_maxima_3 local_maxima_without_smoothing,0.717039716886,2016-11-15 13:22:38.742000
+LogisticRegression,border_smooth_sample smooth_sample spread grey_white_ratio local_maxima_3 PCA_transform,0.641031568303,2016-11-15 13:22:41.397000
+LogisticRegression,border_smooth_sample smooth_sample spread grey_white_ratio local_maxima_without_smoothing PCA_transform,0.717536447827,2016-11-15 13:22:44.326000
+LogisticRegression,border_smooth_sample smooth_sample spread mean_feature variance_feature local_maxima_3,0.625907286535,2016-11-15 13:22:51.568000
+LogisticRegression,border_smooth_sample smooth_sample spread mean_feature variance_feature local_maxima_without_smoothing,0.721542284312,2016-11-15 13:22:59.608000
+LogisticRegression,border_smooth_sample smooth_sample spread mean_feature variance_feature PCA_transform,0.540877568448,2016-11-15 13:23:07.574000
+LogisticRegression,border_smooth_sample smooth_sample spread mean_feature local_maxima_3 local_maxima_without_smoothing,0.737841414905,2016-11-15 13:23:10.756000
+LogisticRegression,border_smooth_sample smooth_sample spread mean_feature local_maxima_3 PCA_transform,0.650052960346,2016-11-15 13:23:14.025000
+LogisticRegression,border_smooth_sample smooth_sample spread mean_feature local_maxima_without_smoothing PCA_transform,0.71145029547,2016-11-15 13:23:16.903000
+LogisticRegression,border_smooth_sample smooth_sample spread variance_feature local_maxima_3 local_maxima_without_smoothing,0.728834641204,2016-11-15 13:23:26.491000
+LogisticRegression,border_smooth_sample smooth_sample spread variance_feature local_maxima_3 PCA_transform,0.582858173695,2016-11-15 13:23:32.374000
+LogisticRegression,border_smooth_sample smooth_sample spread variance_feature local_maxima_without_smoothing PCA_transform,0.661465074903,2016-11-15 13:23:42.113000
+LogisticRegression,border_smooth_sample smooth_sample spread local_maxima_3 local_maxima_without_smoothing PCA_transform,0.688755997624,2016-11-15 13:23:45.583000
+LogisticRegression,border_smooth_sample smooth_sample grey_white_ratio mean_feature variance_feature local_maxima_3,0.376294721316,2016-11-15 13:23:47.484000
+LogisticRegression,border_smooth_sample smooth_sample grey_white_ratio mean_feature variance_feature local_maxima_without_smoothing,0.374369282467,2016-11-15 13:23:48.070000
+LogisticRegression,border_smooth_sample smooth_sample grey_white_ratio mean_feature variance_feature PCA_transform,0.350410046956,2016-11-15 13:23:48.431000
+LogisticRegression,border_smooth_sample smooth_sample grey_white_ratio mean_feature local_maxima_3 local_maxima_without_smoothing,0.401288561251,2016-11-15 13:23:51.070000
+LogisticRegression,border_smooth_sample smooth_sample grey_white_ratio mean_feature local_maxima_3 PCA_transform,0.378696252102,2016-11-15 13:23:55.513000
+LogisticRegression,border_smooth_sample smooth_sample grey_white_ratio mean_feature local_maxima_without_smoothing PCA_transform,0.382921618649,2016-11-15 13:23:57.938000
+LogisticRegression,border_smooth_sample smooth_sample grey_white_ratio variance_feature local_maxima_3 local_maxima_without_smoothing,0.389470301356,2016-11-15 13:24:00.634000
+LogisticRegression,border_smooth_sample smooth_sample grey_white_ratio variance_feature local_maxima_3 PCA_transform,0.373362222618,2016-11-15 13:24:03.503000
+LogisticRegression,border_smooth_sample smooth_sample grey_white_ratio variance_feature local_maxima_without_smoothing PCA_transform,0.377743324926,2016-11-15 13:24:05.452000
+LogisticRegression,border_smooth_sample smooth_sample grey_white_ratio local_maxima_3 local_maxima_without_smoothing PCA_transform,0.398339624896,2016-11-15 13:24:06.709000
+LogisticRegression,border_smooth_sample smooth_sample mean_feature variance_feature local_maxima_3 local_maxima_without_smoothing,0.393096859851,2016-11-15 13:24:09.981000
+LogisticRegression,border_smooth_sample smooth_sample mean_feature variance_feature local_maxima_3 PCA_transform,0.365506685049,2016-11-15 13:24:11.389000
+LogisticRegression,border_smooth_sample smooth_sample mean_feature variance_feature local_maxima_without_smoothing PCA_transform,0.372589174672,2016-11-15 13:24:12.941000
+LogisticRegression,border_smooth_sample smooth_sample mean_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.396280927368,2016-11-15 13:24:16.182000
+LogisticRegression,border_smooth_sample smooth_sample variance_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.388503671645,2016-11-15 13:24:18.369000
+LogisticRegression,border_smooth_sample spread grey_white_ratio mean_feature variance_feature local_maxima_3,0.683423487558,2016-11-15 13:24:25.799000
+LogisticRegression,border_smooth_sample spread grey_white_ratio mean_feature variance_feature local_maxima_without_smoothing,0.656827837591,2016-11-15 13:24:30.397000
+LogisticRegression,border_smooth_sample spread grey_white_ratio mean_feature variance_feature PCA_transform,0.596423055015,2016-11-15 13:24:37.027000
+LogisticRegression,border_smooth_sample spread grey_white_ratio mean_feature local_maxima_3 local_maxima_without_smoothing,0.724701450473,2016-11-15 13:24:40.222000
+LogisticRegression,border_smooth_sample spread grey_white_ratio mean_feature local_maxima_3 PCA_transform,0.663701575637,2016-11-15 13:24:43.156000
+LogisticRegression,border_smooth_sample spread grey_white_ratio mean_feature local_maxima_without_smoothing PCA_transform,0.728793108156,2016-11-15 13:24:46.223000
+LogisticRegression,border_smooth_sample spread grey_white_ratio variance_feature local_maxima_3 local_maxima_without_smoothing,0.692491685003,2016-11-15 13:24:53.942000
+LogisticRegression,border_smooth_sample spread grey_white_ratio variance_feature local_maxima_3 PCA_transform,0.584984061898,2016-11-15 13:24:58.255000
+LogisticRegression,border_smooth_sample spread grey_white_ratio variance_feature local_maxima_without_smoothing PCA_transform,0.70839332363,2016-11-15 13:25:02.861000
+LogisticRegression,border_smooth_sample spread grey_white_ratio local_maxima_3 local_maxima_without_smoothing PCA_transform,0.706072516316,2016-11-15 13:25:06.051000
+LogisticRegression,border_smooth_sample spread mean_feature variance_feature local_maxima_3 local_maxima_without_smoothing,0.725949956629,2016-11-15 13:25:12.336000
+LogisticRegression,border_smooth_sample spread mean_feature variance_feature local_maxima_3 PCA_transform,0.627200788235,2016-11-15 13:25:21.398000
+LogisticRegression,border_smooth_sample spread mean_feature variance_feature local_maxima_without_smoothing PCA_transform,0.643464607333,2016-11-15 13:25:25.279000
+LogisticRegression,border_smooth_sample spread mean_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.690769619224,2016-11-15 13:25:28.077000
+LogisticRegression,border_smooth_sample spread variance_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.674892832573,2016-11-15 13:25:40.861000
+LogisticRegression,border_smooth_sample grey_white_ratio mean_feature variance_feature local_maxima_3 local_maxima_without_smoothing,0.391852706355,2016-11-15 13:25:42.800000
+LogisticRegression,border_smooth_sample grey_white_ratio mean_feature variance_feature local_maxima_3 PCA_transform,0.366814057375,2016-11-15 13:25:44.308000
+LogisticRegression,border_smooth_sample grey_white_ratio mean_feature variance_feature local_maxima_without_smoothing PCA_transform,0.371734236723,2016-11-15 13:25:46.274000
+LogisticRegression,border_smooth_sample grey_white_ratio mean_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.400222317808,2016-11-15 13:25:48.357000
+LogisticRegression,border_smooth_sample grey_white_ratio variance_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.391243043451,2016-11-15 13:25:50.498000
+LogisticRegression,border_smooth_sample mean_feature variance_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.394382338715,2016-11-15 13:25:54.748000
+LogisticRegression,smooth_sample spread grey_white_ratio mean_feature variance_feature local_maxima_3,0.652476090611,2016-11-15 13:26:01.764000
+LogisticRegression,smooth_sample spread grey_white_ratio mean_feature variance_feature local_maxima_without_smoothing,0.721250056376,2016-11-15 13:26:07.815000
+LogisticRegression,smooth_sample spread grey_white_ratio mean_feature variance_feature PCA_transform,0.571451207378,2016-11-15 13:26:13.100000
+LogisticRegression,smooth_sample spread grey_white_ratio mean_feature local_maxima_3 local_maxima_without_smoothing,0.721921977594,2016-11-15 13:26:16.185000
+LogisticRegression,smooth_sample spread grey_white_ratio mean_feature local_maxima_3 PCA_transform,0.652348664235,2016-11-15 13:26:19.168000
+LogisticRegression,smooth_sample spread grey_white_ratio mean_feature local_maxima_without_smoothing PCA_transform,0.72752534388,2016-11-15 13:26:22.100000
+LogisticRegression,smooth_sample spread grey_white_ratio variance_feature local_maxima_3 local_maxima_without_smoothing,0.704657663834,2016-11-15 13:26:28.224000
+LogisticRegression,smooth_sample spread grey_white_ratio variance_feature local_maxima_3 PCA_transform,0.64426406809,2016-11-15 13:26:37.334000
+LogisticRegression,smooth_sample spread grey_white_ratio variance_feature local_maxima_without_smoothing PCA_transform,0.733808396563,2016-11-15 13:26:51.480000
+LogisticRegression,smooth_sample spread grey_white_ratio local_maxima_3 local_maxima_without_smoothing PCA_transform,0.704239281394,2016-11-15 13:26:54.881000
+LogisticRegression,smooth_sample spread mean_feature variance_feature local_maxima_3 local_maxima_without_smoothing,0.707077989896,2016-11-15 13:27:03.105000
+LogisticRegression,smooth_sample spread mean_feature variance_feature local_maxima_3 PCA_transform,0.66639436966,2016-11-15 13:27:11.299000
+LogisticRegression,smooth_sample spread mean_feature variance_feature local_maxima_without_smoothing PCA_transform,0.685791155753,2016-11-15 13:27:17.538000
+LogisticRegression,smooth_sample spread mean_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.68860414009,2016-11-15 13:27:20.758000
+LogisticRegression,smooth_sample spread variance_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.674936946137,2016-11-15 13:27:28.745000
+LogisticRegression,smooth_sample grey_white_ratio mean_feature variance_feature local_maxima_3 local_maxima_without_smoothing,0.395844878339,2016-11-15 13:27:31.979000
+LogisticRegression,smooth_sample grey_white_ratio mean_feature variance_feature local_maxima_3 PCA_transform,0.36760542466,2016-11-15 13:27:33.078000
+LogisticRegression,smooth_sample grey_white_ratio mean_feature variance_feature local_maxima_without_smoothing PCA_transform,0.368940351024,2016-11-15 13:27:33.601000
+LogisticRegression,smooth_sample grey_white_ratio mean_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.401504614376,2016-11-15 13:27:35.522000
+LogisticRegression,smooth_sample grey_white_ratio variance_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.389231758396,2016-11-15 13:27:39.407000
+LogisticRegression,smooth_sample mean_feature variance_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.388926452365,2016-11-15 13:27:47.089000
+LogisticRegression,spread grey_white_ratio mean_feature variance_feature local_maxima_3 local_maxima_without_smoothing,0.708012000233,2016-11-15 13:27:52.323000
+LogisticRegression,spread grey_white_ratio mean_feature variance_feature local_maxima_3 PCA_transform,0.654636103015,2016-11-15 13:28:02.809000
+LogisticRegression,spread grey_white_ratio mean_feature variance_feature local_maxima_without_smoothing PCA_transform,0.711841004526,2016-11-15 13:28:08.119000
+LogisticRegression,spread grey_white_ratio mean_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.704172699479,2016-11-15 13:28:10.945000
+LogisticRegression,spread grey_white_ratio variance_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.715757926274,2016-11-15 13:28:21.907000
+LogisticRegression,spread mean_feature variance_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.688090014361,2016-11-15 13:28:26.090000
+LogisticRegression,grey_white_ratio mean_feature variance_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.371918247428,2016-11-15 13:28:27.998000
+LogisticRegression,polyfit border_smooth_sample smooth_sample spread grey_white_ratio mean_feature variance_feature,0.616687349203,2016-11-15 13:28:31.724000
+LogisticRegression,polyfit border_smooth_sample smooth_sample spread grey_white_ratio mean_feature local_maxima_3,0.654141110716,2016-11-15 13:28:33.141000
+LogisticRegression,polyfit border_smooth_sample smooth_sample spread grey_white_ratio mean_feature local_maxima_without_smoothing,0.707786722447,2016-11-15 13:28:34.535000
+LogisticRegression,polyfit border_smooth_sample smooth_sample spread grey_white_ratio mean_feature PCA_transform,0.577161153251,2016-11-15 13:28:35.826000
+LogisticRegression,polyfit border_smooth_sample smooth_sample spread grey_white_ratio variance_feature local_maxima_3,0.592738642795,2016-11-15 13:28:38.596000
+LogisticRegression,polyfit border_smooth_sample smooth_sample spread grey_white_ratio variance_feature local_maxima_without_smoothing,0.715653177914,2016-11-15 13:28:41.662000
+LogisticRegression,polyfit border_smooth_sample smooth_sample spread grey_white_ratio variance_feature PCA_transform,0.655728816153,2016-11-15 13:28:51.077000
+LogisticRegression,polyfit border_smooth_sample smooth_sample spread grey_white_ratio local_maxima_3 local_maxima_without_smoothing,0.717855927318,2016-11-15 13:28:52.672000
+LogisticRegression,polyfit border_smooth_sample smooth_sample spread grey_white_ratio local_maxima_3 PCA_transform,0.644132312001,2016-11-15 13:28:54.081000
+LogisticRegression,polyfit border_smooth_sample smooth_sample spread grey_white_ratio local_maxima_without_smoothing PCA_transform,0.720279360903,2016-11-15 13:28:55.526000
+LogisticRegression,polyfit border_smooth_sample smooth_sample spread mean_feature variance_feature local_maxima_3,0.663807034011,2016-11-15 13:28:59.902000
+LogisticRegression,polyfit border_smooth_sample smooth_sample spread mean_feature variance_feature local_maxima_without_smoothing,0.651639034626,2016-11-15 13:29:02.364000
+LogisticRegression,polyfit border_smooth_sample smooth_sample spread mean_feature variance_feature PCA_transform,0.558374169164,2016-11-15 13:29:04.705000
+LogisticRegression,polyfit border_smooth_sample smooth_sample spread mean_feature local_maxima_3 local_maxima_without_smoothing,0.741339704081,2016-11-15 13:29:06.321000
+LogisticRegression,polyfit border_smooth_sample smooth_sample spread mean_feature local_maxima_3 PCA_transform,0.656993733257,2016-11-15 13:29:07.817000
+LogisticRegression,polyfit border_smooth_sample smooth_sample spread mean_feature local_maxima_without_smoothing PCA_transform,0.710327962766,2016-11-15 13:29:09.330000
+LogisticRegression,polyfit border_smooth_sample smooth_sample spread variance_feature local_maxima_3 local_maxima_without_smoothing,0.7057926066,2016-11-15 13:29:13.401000
+LogisticRegression,polyfit border_smooth_sample smooth_sample spread variance_feature local_maxima_3 PCA_transform,0.657042942572,2016-11-15 13:29:27.340000
+LogisticRegression,polyfit border_smooth_sample smooth_sample spread variance_feature local_maxima_without_smoothing PCA_transform,0.681605263158,2016-11-15 13:29:30.279000
+LogisticRegression,polyfit border_smooth_sample smooth_sample spread local_maxima_3 local_maxima_without_smoothing PCA_transform,0.690819015495,2016-11-15 13:29:31.934000
+LogisticRegression,polyfit border_smooth_sample smooth_sample grey_white_ratio mean_feature variance_feature local_maxima_3,0.377923937378,2016-11-15 13:29:33.504000
+LogisticRegression,polyfit border_smooth_sample smooth_sample grey_white_ratio mean_feature variance_feature local_maxima_without_smoothing,0.374037681666,2016-11-15 13:29:34.049000
+LogisticRegression,polyfit border_smooth_sample smooth_sample grey_white_ratio mean_feature variance_feature PCA_transform,0.352760075136,2016-11-15 13:29:34.314000
+LogisticRegression,polyfit border_smooth_sample smooth_sample grey_white_ratio mean_feature local_maxima_3 local_maxima_without_smoothing,0.401275883187,2016-11-15 13:29:35.665000
+LogisticRegression,polyfit border_smooth_sample smooth_sample grey_white_ratio mean_feature local_maxima_3 PCA_transform,0.379194764936,2016-11-15 13:29:37.831000
+LogisticRegression,polyfit border_smooth_sample smooth_sample grey_white_ratio mean_feature local_maxima_without_smoothing PCA_transform,0.38370394421,2016-11-15 13:29:39.110000
+LogisticRegression,polyfit border_smooth_sample smooth_sample grey_white_ratio variance_feature local_maxima_3 local_maxima_without_smoothing,0.395569927514,2016-11-15 13:29:40.018000
+LogisticRegression,polyfit border_smooth_sample smooth_sample grey_white_ratio variance_feature local_maxima_3 PCA_transform,0.371424430308,2016-11-15 13:29:40.557000
+LogisticRegression,polyfit border_smooth_sample smooth_sample grey_white_ratio variance_feature local_maxima_without_smoothing PCA_transform,0.377801010585,2016-11-15 13:29:42.095000
+LogisticRegression,polyfit border_smooth_sample smooth_sample grey_white_ratio local_maxima_3 local_maxima_without_smoothing PCA_transform,0.398903396113,2016-11-15 13:29:42.796000
+LogisticRegression,polyfit border_smooth_sample smooth_sample mean_feature variance_feature local_maxima_3 local_maxima_without_smoothing,0.393640241989,2016-11-15 13:29:44.210000
+LogisticRegression,polyfit border_smooth_sample smooth_sample mean_feature variance_feature local_maxima_3 PCA_transform,0.367258610099,2016-11-15 13:29:44.803000
+LogisticRegression,polyfit border_smooth_sample smooth_sample mean_feature variance_feature local_maxima_without_smoothing PCA_transform,0.376321134866,2016-11-15 13:29:45.670000
+LogisticRegression,polyfit border_smooth_sample smooth_sample mean_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.396065906391,2016-11-15 13:29:47.300000
+LogisticRegression,polyfit border_smooth_sample smooth_sample variance_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.393165915292,2016-11-15 13:29:48.253000
+LogisticRegression,polyfit border_smooth_sample spread grey_white_ratio mean_feature variance_feature local_maxima_3,0.6928496799,2016-11-15 13:29:52.243000
+LogisticRegression,polyfit border_smooth_sample spread grey_white_ratio mean_feature variance_feature local_maxima_without_smoothing,0.7402912952,2016-11-15 13:29:55.902000
+LogisticRegression,polyfit border_smooth_sample spread grey_white_ratio mean_feature variance_feature PCA_transform,0.593687118563,2016-11-15 13:29:59.526000
+LogisticRegression,polyfit border_smooth_sample spread grey_white_ratio mean_feature local_maxima_3 local_maxima_without_smoothing,0.719427681662,2016-11-15 13:30:01.102000
+LogisticRegression,polyfit border_smooth_sample spread grey_white_ratio mean_feature local_maxima_3 PCA_transform,0.652241490588,2016-11-15 13:30:02.591000
+LogisticRegression,polyfit border_smooth_sample spread grey_white_ratio mean_feature local_maxima_without_smoothing PCA_transform,0.724277801405,2016-11-15 13:30:04.043000
+LogisticRegression,polyfit border_smooth_sample spread grey_white_ratio variance_feature local_maxima_3 local_maxima_without_smoothing,0.707645429152,2016-11-15 13:30:07.759000
+LogisticRegression,polyfit border_smooth_sample spread grey_white_ratio variance_feature local_maxima_3 PCA_transform,0.627774662225,2016-11-15 13:30:14.480000
+LogisticRegression,polyfit border_smooth_sample spread grey_white_ratio variance_feature local_maxima_without_smoothing PCA_transform,0.629259356175,2016-11-15 13:30:16.638000
+LogisticRegression,polyfit border_smooth_sample spread grey_white_ratio local_maxima_3 local_maxima_without_smoothing PCA_transform,0.705183010783,2016-11-15 13:30:18.209000
+LogisticRegression,polyfit border_smooth_sample spread mean_feature variance_feature local_maxima_3 local_maxima_without_smoothing,0.741498398498,2016-11-15 13:30:22.213000
+LogisticRegression,polyfit border_smooth_sample spread mean_feature variance_feature local_maxima_3 PCA_transform,0.623456849393,2016-11-15 13:30:25.621000
+LogisticRegression,polyfit border_smooth_sample spread mean_feature variance_feature local_maxima_without_smoothing PCA_transform,0.708355009764,2016-11-15 13:30:29.945000
+LogisticRegression,polyfit border_smooth_sample spread mean_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.691695604593,2016-11-15 13:30:31.604000
+LogisticRegression,polyfit border_smooth_sample spread variance_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.664343369767,2016-11-15 13:30:34.112000
+LogisticRegression,polyfit border_smooth_sample grey_white_ratio mean_feature variance_feature local_maxima_3 local_maxima_without_smoothing,0.39610712129,2016-11-15 13:30:35.395000
+LogisticRegression,polyfit border_smooth_sample grey_white_ratio mean_feature variance_feature local_maxima_3 PCA_transform,0.372598893944,2016-11-15 13:30:36.371000
+LogisticRegression,polyfit border_smooth_sample grey_white_ratio mean_feature variance_feature local_maxima_without_smoothing PCA_transform,0.37340034414,2016-11-15 13:30:38.229000
+LogisticRegression,polyfit border_smooth_sample grey_white_ratio mean_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.400379566488,2016-11-15 13:30:39.408000
+LogisticRegression,polyfit border_smooth_sample grey_white_ratio variance_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.393706720727,2016-11-15 13:30:40.580000
+LogisticRegression,polyfit border_smooth_sample mean_feature variance_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.392787885616,2016-11-15 13:30:44.665000
+LogisticRegression,polyfit smooth_sample spread grey_white_ratio mean_feature variance_feature local_maxima_3,0.691813286533,2016-11-15 13:30:49.384000
+LogisticRegression,polyfit smooth_sample spread grey_white_ratio mean_feature variance_feature local_maxima_without_smoothing,0.714850816971,2016-11-15 13:30:52.900000
+LogisticRegression,polyfit smooth_sample spread grey_white_ratio mean_feature variance_feature PCA_transform,0.573736464547,2016-11-15 13:30:55.790000
+LogisticRegression,polyfit smooth_sample spread grey_white_ratio mean_feature local_maxima_3 local_maxima_without_smoothing,0.724703854569,2016-11-15 13:30:57.326000
+LogisticRegression,polyfit smooth_sample spread grey_white_ratio mean_feature local_maxima_3 PCA_transform,0.663129625154,2016-11-15 13:30:58.784000
+LogisticRegression,polyfit smooth_sample spread grey_white_ratio mean_feature local_maxima_without_smoothing PCA_transform,0.725581405021,2016-11-15 13:31:00.240000
+LogisticRegression,polyfit smooth_sample spread grey_white_ratio variance_feature local_maxima_3 local_maxima_without_smoothing,0.691959787789,2016-11-15 13:31:03.167000
+LogisticRegression,polyfit smooth_sample spread grey_white_ratio variance_feature local_maxima_3 PCA_transform,0.673960428128,2016-11-15 13:31:13.309000
+LogisticRegression,polyfit smooth_sample spread grey_white_ratio variance_feature local_maxima_without_smoothing PCA_transform,0.680134199622,2016-11-15 13:31:18.168000
+LogisticRegression,polyfit smooth_sample spread grey_white_ratio local_maxima_3 local_maxima_without_smoothing PCA_transform,0.702760702411,2016-11-15 13:31:19.795000
+LogisticRegression,polyfit smooth_sample spread mean_feature variance_feature local_maxima_3 local_maxima_without_smoothing,0.741249280226,2016-11-15 13:31:24.738000
+LogisticRegression,polyfit smooth_sample spread mean_feature variance_feature local_maxima_3 PCA_transform,0.664292433558,2016-11-15 13:31:30.723000
+LogisticRegression,polyfit smooth_sample spread mean_feature variance_feature local_maxima_without_smoothing PCA_transform,0.668146538276,2016-11-15 13:31:37.662000
+LogisticRegression,polyfit smooth_sample spread mean_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.692177256642,2016-11-15 13:31:39.378000
+LogisticRegression,polyfit smooth_sample spread variance_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.67637104015,2016-11-15 13:31:47.102000
+LogisticRegression,polyfit smooth_sample grey_white_ratio mean_feature variance_feature local_maxima_3 local_maxima_without_smoothing,0.396357822539,2016-11-15 13:31:48.736000
+LogisticRegression,polyfit smooth_sample grey_white_ratio mean_feature variance_feature local_maxima_3 PCA_transform,0.3661704263,2016-11-15 13:31:49.425000
+LogisticRegression,polyfit smooth_sample grey_white_ratio mean_feature variance_feature local_maxima_without_smoothing PCA_transform,0.369962780791,2016-11-15 13:31:50.291000
+LogisticRegression,polyfit smooth_sample grey_white_ratio mean_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.402509637506,2016-11-15 13:31:51.558000
+LogisticRegression,polyfit smooth_sample grey_white_ratio variance_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.392551474299,2016-11-15 13:31:53.068000
+LogisticRegression,polyfit smooth_sample mean_feature variance_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.383820065744,2016-11-15 13:31:54.312000
+LogisticRegression,polyfit spread grey_white_ratio mean_feature variance_feature local_maxima_3 local_maxima_without_smoothing,0.706666447065,2016-11-15 13:31:57.551000
+LogisticRegression,polyfit spread grey_white_ratio mean_feature variance_feature local_maxima_3 PCA_transform,0.636372760259,2016-11-15 13:32:02.390000
+LogisticRegression,polyfit spread grey_white_ratio mean_feature variance_feature local_maxima_without_smoothing PCA_transform,0.684737471211,2016-11-15 13:32:05.929000
+LogisticRegression,polyfit spread grey_white_ratio mean_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.698502840001,2016-11-15 13:32:07.475000
+LogisticRegression,polyfit spread grey_white_ratio variance_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.683449974289,2016-11-15 13:32:11.949000
+LogisticRegression,polyfit spread mean_feature variance_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.670393937668,2016-11-15 13:32:15.642000
+LogisticRegression,polyfit grey_white_ratio mean_feature variance_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.376617945045,2016-11-15 13:32:17.487000
+LogisticRegression,border_smooth_sample smooth_sample spread grey_white_ratio mean_feature variance_feature local_maxima_3,0.670853338757,2016-11-15 13:32:21.255000
+LogisticRegression,border_smooth_sample smooth_sample spread grey_white_ratio mean_feature variance_feature local_maxima_without_smoothing,0.703738922165,2016-11-15 13:32:23.953000
+LogisticRegression,border_smooth_sample smooth_sample spread grey_white_ratio mean_feature variance_feature PCA_transform,0.640136982977,2016-11-15 13:32:31.328000
+LogisticRegression,border_smooth_sample smooth_sample spread grey_white_ratio mean_feature local_maxima_3 local_maxima_without_smoothing,0.724950243719,2016-11-15 13:32:32.977000
+LogisticRegression,border_smooth_sample smooth_sample spread grey_white_ratio mean_feature local_maxima_3 PCA_transform,0.655485617047,2016-11-15 13:32:34.542000
+LogisticRegression,border_smooth_sample smooth_sample spread grey_white_ratio mean_feature local_maxima_without_smoothing PCA_transform,0.727601955121,2016-11-15 13:32:36.044000
+LogisticRegression,border_smooth_sample smooth_sample spread grey_white_ratio variance_feature local_maxima_3 local_maxima_without_smoothing,0.736065371418,2016-11-15 13:32:40.364000
+LogisticRegression,border_smooth_sample smooth_sample spread grey_white_ratio variance_feature local_maxima_3 PCA_transform,0.582733409666,2016-11-15 13:32:45.191000
+LogisticRegression,border_smooth_sample smooth_sample spread grey_white_ratio variance_feature local_maxima_without_smoothing PCA_transform,0.705155867985,2016-11-15 13:32:48.019000
+LogisticRegression,border_smooth_sample smooth_sample spread grey_white_ratio local_maxima_3 local_maxima_without_smoothing PCA_transform,0.706678694224,2016-11-15 13:32:49.736000
+LogisticRegression,border_smooth_sample smooth_sample spread mean_feature variance_feature local_maxima_3 local_maxima_without_smoothing,0.752850583401,2016-11-15 13:32:54.498000
+LogisticRegression,border_smooth_sample smooth_sample spread mean_feature variance_feature local_maxima_3 PCA_transform,0.631022252533,2016-11-15 13:32:57.856000
+LogisticRegression,border_smooth_sample smooth_sample spread mean_feature variance_feature local_maxima_without_smoothing PCA_transform,0.676681859754,2016-11-15 13:33:01.435000
+LogisticRegression,border_smooth_sample smooth_sample spread mean_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.690793784967,2016-11-15 13:33:03.082000
+LogisticRegression,border_smooth_sample smooth_sample spread variance_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.67678865449,2016-11-15 13:33:14.189000
+LogisticRegression,border_smooth_sample smooth_sample grey_white_ratio mean_feature variance_feature local_maxima_3 local_maxima_without_smoothing,0.397741388147,2016-11-15 13:33:15.495000
+LogisticRegression,border_smooth_sample smooth_sample grey_white_ratio mean_feature variance_feature local_maxima_3 PCA_transform,0.371659653982,2016-11-15 13:33:16.185000
+LogisticRegression,border_smooth_sample smooth_sample grey_white_ratio mean_feature variance_feature local_maxima_without_smoothing PCA_transform,0.37820769573,2016-11-15 13:33:17.554000
+LogisticRegression,border_smooth_sample smooth_sample grey_white_ratio mean_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.400559856512,2016-11-15 13:33:18.911000
+LogisticRegression,border_smooth_sample smooth_sample grey_white_ratio variance_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.398511744125,2016-11-15 13:33:21.546000
+LogisticRegression,border_smooth_sample smooth_sample mean_feature variance_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.394821022683,2016-11-15 13:33:22.867000
+LogisticRegression,border_smooth_sample spread grey_white_ratio mean_feature variance_feature local_maxima_3 local_maxima_without_smoothing,0.630464855954,2016-11-15 13:33:25.682000
+LogisticRegression,border_smooth_sample spread grey_white_ratio mean_feature variance_feature local_maxima_3 PCA_transform,0.632159170849,2016-11-15 13:33:29.891000
+LogisticRegression,border_smooth_sample spread grey_white_ratio mean_feature variance_feature local_maxima_without_smoothing PCA_transform,0.722212952701,2016-11-15 13:33:33.856000
+LogisticRegression,border_smooth_sample spread grey_white_ratio mean_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.70464344924,2016-11-15 13:33:35.491000
+LogisticRegression,border_smooth_sample spread grey_white_ratio variance_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.685287685098,2016-11-15 13:33:42.010000
+LogisticRegression,border_smooth_sample spread mean_feature variance_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.656115907396,2016-11-15 13:33:44.438000
+LogisticRegression,border_smooth_sample grey_white_ratio mean_feature variance_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.39564565667,2016-11-15 13:33:46.849000
+LogisticRegression,smooth_sample spread grey_white_ratio mean_feature variance_feature local_maxima_3 local_maxima_without_smoothing,0.663648886688,2016-11-15 13:33:49.172000
+LogisticRegression,smooth_sample spread grey_white_ratio mean_feature variance_feature local_maxima_3 PCA_transform,0.649343202345,2016-11-15 13:33:53.823000
+LogisticRegression,smooth_sample spread grey_white_ratio mean_feature variance_feature local_maxima_without_smoothing PCA_transform,0.722899396142,2016-11-15 13:33:56.939000
+LogisticRegression,smooth_sample spread grey_white_ratio mean_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.707131338893,2016-11-15 13:33:58.619000
+LogisticRegression,smooth_sample spread grey_white_ratio variance_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.690615982064,2016-11-15 13:34:05.427000
+LogisticRegression,smooth_sample spread mean_feature variance_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.644725477461,2016-11-15 13:34:08.654000
+LogisticRegression,smooth_sample grey_white_ratio mean_feature variance_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.390380677679,2016-11-15 13:34:10.594000
+LogisticRegression,spread grey_white_ratio mean_feature variance_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.702023065465,2016-11-15 13:34:13.339000
+LogisticRegression,polyfit border_smooth_sample smooth_sample spread grey_white_ratio mean_feature variance_feature local_maxima_3,0.722266111199,2016-11-15 13:34:17.478000
+LogisticRegression,polyfit border_smooth_sample smooth_sample spread grey_white_ratio mean_feature variance_feature local_maxima_without_smoothing,0.663623561884,2016-11-15 13:34:20.405000
+LogisticRegression,polyfit border_smooth_sample smooth_sample spread grey_white_ratio mean_feature variance_feature PCA_transform,0.554408085675,2016-11-15 13:34:24.491000
+LogisticRegression,polyfit border_smooth_sample smooth_sample spread grey_white_ratio mean_feature local_maxima_3 local_maxima_without_smoothing,0.720310735456,2016-11-15 13:34:26.141000
+LogisticRegression,polyfit border_smooth_sample smooth_sample spread grey_white_ratio mean_feature local_maxima_3 PCA_transform,0.665093762616,2016-11-15 13:34:27.739000
+LogisticRegression,polyfit border_smooth_sample smooth_sample spread grey_white_ratio mean_feature local_maxima_without_smoothing PCA_transform,0.722897319349,2016-11-15 13:34:29.252000
+LogisticRegression,polyfit border_smooth_sample smooth_sample spread grey_white_ratio variance_feature local_maxima_3 local_maxima_without_smoothing,0.701201952702,2016-11-15 13:34:33.681000
+LogisticRegression,polyfit border_smooth_sample smooth_sample spread grey_white_ratio variance_feature local_maxima_3 PCA_transform,0.629784224646,2016-11-15 13:34:39.109000
+LogisticRegression,polyfit border_smooth_sample smooth_sample spread grey_white_ratio variance_feature local_maxima_without_smoothing PCA_transform,0.681856358297,2016-11-15 13:34:41.352000
+LogisticRegression,polyfit border_smooth_sample smooth_sample spread grey_white_ratio local_maxima_3 local_maxima_without_smoothing PCA_transform,0.704579519703,2016-11-15 13:34:42.980000
+LogisticRegression,polyfit border_smooth_sample smooth_sample spread mean_feature variance_feature local_maxima_3 local_maxima_without_smoothing,0.711008193241,2016-11-15 13:34:46.447000
+LogisticRegression,polyfit border_smooth_sample smooth_sample spread mean_feature variance_feature local_maxima_3 PCA_transform,0.68654776534,2016-11-15 13:34:53.292000
+LogisticRegression,polyfit border_smooth_sample smooth_sample spread mean_feature variance_feature local_maxima_without_smoothing PCA_transform,0.641267985357,2016-11-15 13:34:57.079000
+LogisticRegression,polyfit border_smooth_sample smooth_sample spread mean_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.68953561359,2016-11-15 13:34:58.756000
+LogisticRegression,polyfit border_smooth_sample smooth_sample spread variance_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.676687631242,2016-11-15 13:35:08.157000
+LogisticRegression,polyfit border_smooth_sample smooth_sample grey_white_ratio mean_feature variance_feature local_maxima_3 local_maxima_without_smoothing,0.395818103377,2016-11-15 13:35:09.894000
+LogisticRegression,polyfit border_smooth_sample smooth_sample grey_white_ratio mean_feature variance_feature local_maxima_3 PCA_transform,0.372738777004,2016-11-15 13:35:10.961000
+LogisticRegression,polyfit border_smooth_sample smooth_sample grey_white_ratio mean_feature variance_feature local_maxima_without_smoothing PCA_transform,0.376196157151,2016-11-15 13:35:12.240000
+LogisticRegression,polyfit border_smooth_sample smooth_sample grey_white_ratio mean_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.400645831903,2016-11-15 13:35:13.642000
+LogisticRegression,polyfit border_smooth_sample smooth_sample grey_white_ratio variance_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.400271217695,2016-11-15 13:35:15.514000
+LogisticRegression,polyfit border_smooth_sample smooth_sample mean_feature variance_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.393593272322,2016-11-15 13:35:17.799000
+LogisticRegression,polyfit border_smooth_sample spread grey_white_ratio mean_feature variance_feature local_maxima_3 local_maxima_without_smoothing,0.705778317653,2016-11-15 13:35:20.787000
+LogisticRegression,polyfit border_smooth_sample spread grey_white_ratio mean_feature variance_feature local_maxima_3 PCA_transform,0.590406805514,2016-11-15 13:35:25.989000
+LogisticRegression,polyfit border_smooth_sample spread grey_white_ratio mean_feature variance_feature local_maxima_without_smoothing PCA_transform,0.650766663886,2016-11-15 13:35:29.629000
+LogisticRegression,polyfit border_smooth_sample spread grey_white_ratio mean_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.706311747887,2016-11-15 13:35:31.253000
+LogisticRegression,polyfit border_smooth_sample spread grey_white_ratio variance_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.647783237269,2016-11-15 13:35:36.245000
+LogisticRegression,polyfit border_smooth_sample spread mean_feature variance_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.676246948354,2016-11-15 13:35:41.192000
+LogisticRegression,polyfit border_smooth_sample grey_white_ratio mean_feature variance_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.396544860838,2016-11-15 13:35:43.574000
+LogisticRegression,polyfit smooth_sample spread grey_white_ratio mean_feature variance_feature local_maxima_3 local_maxima_without_smoothing,0.700379187329,2016-11-15 13:35:46.990000
+LogisticRegression,polyfit smooth_sample spread grey_white_ratio mean_feature variance_feature local_maxima_3 PCA_transform,0.632069085947,2016-11-15 13:35:52.162000
+LogisticRegression,polyfit smooth_sample spread grey_white_ratio mean_feature variance_feature local_maxima_without_smoothing PCA_transform,0.620460622827,2016-11-15 13:35:53.920000
+LogisticRegression,polyfit smooth_sample spread grey_white_ratio mean_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.703569752984,2016-11-15 13:35:55.567000
+LogisticRegression,polyfit smooth_sample spread grey_white_ratio variance_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.662564048267,2016-11-15 13:35:59.712000
+LogisticRegression,polyfit smooth_sample spread mean_feature variance_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.654110827039,2016-11-15 13:36:02.959000
+LogisticRegression,polyfit smooth_sample grey_white_ratio mean_feature variance_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.389860126386,2016-11-15 13:36:03.750000
+LogisticRegression,polyfit spread grey_white_ratio mean_feature variance_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.713062867043,2016-11-15 13:36:08.329000
+LogisticRegression,border_smooth_sample smooth_sample spread grey_white_ratio mean_feature variance_feature local_maxima_3 local_maxima_without_smoothing,0.709888333846,2016-11-15 13:36:11.593000
+LogisticRegression,border_smooth_sample smooth_sample spread grey_white_ratio mean_feature variance_feature local_maxima_3 PCA_transform,0.67370471418,2016-11-15 13:36:17.286000
+LogisticRegression,border_smooth_sample smooth_sample spread grey_white_ratio mean_feature variance_feature local_maxima_without_smoothing PCA_transform,0.698937822546,2016-11-15 13:36:22.586000
+LogisticRegression,border_smooth_sample smooth_sample spread grey_white_ratio mean_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.703206166797,2016-11-15 13:36:24.214000
+LogisticRegression,border_smooth_sample smooth_sample spread grey_white_ratio variance_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.678734112659,2016-11-15 13:36:28.069000
+LogisticRegression,border_smooth_sample smooth_sample spread mean_feature variance_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.686838417229,2016-11-15 13:36:31.475000
+LogisticRegression,border_smooth_sample smooth_sample grey_white_ratio mean_feature variance_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.401740976891,2016-11-15 13:36:36.544000
+LogisticRegression,border_smooth_sample spread grey_white_ratio mean_feature variance_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.701619356941,2016-11-15 13:36:40.248000
+LogisticRegression,smooth_sample spread grey_white_ratio mean_feature variance_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.712252382332,2016-11-15 13:36:45.665000
+LogisticRegression,polyfit border_smooth_sample smooth_sample spread grey_white_ratio mean_feature variance_feature local_maxima_3 local_maxima_without_smoothing,0.727381713962,2016-11-15 13:36:49.568000
+LogisticRegression,polyfit border_smooth_sample smooth_sample spread grey_white_ratio mean_feature variance_feature local_maxima_3 PCA_transform,0.612105160975,2016-11-15 13:36:53.164000
+LogisticRegression,polyfit border_smooth_sample smooth_sample spread grey_white_ratio mean_feature variance_feature local_maxima_without_smoothing PCA_transform,0.673450099098,2016-11-15 13:36:55.170000
+LogisticRegression,polyfit border_smooth_sample smooth_sample spread grey_white_ratio mean_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.709759331222,2016-11-15 13:36:56.781000
+LogisticRegression,polyfit border_smooth_sample smooth_sample spread grey_white_ratio variance_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.696326122841,2016-11-15 13:37:04.418000
+LogisticRegression,polyfit border_smooth_sample smooth_sample spread mean_feature variance_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.644675758639,2016-11-15 13:37:07.722000
+LogisticRegression,polyfit border_smooth_sample smooth_sample grey_white_ratio mean_feature variance_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.399780166069,2016-11-15 13:37:11.452000
+LogisticRegression,polyfit border_smooth_sample spread grey_white_ratio mean_feature variance_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.678601139265,2016-11-15 13:37:14.694000
+LogisticRegression,polyfit smooth_sample spread grey_white_ratio mean_feature variance_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.690394509718,2016-11-15 13:37:19.763000
+LogisticRegression,border_smooth_sample smooth_sample spread grey_white_ratio mean_feature variance_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.684703731541,2016-11-15 13:37:23.662000
+LogisticRegression,polyfit border_smooth_sample smooth_sample spread grey_white_ratio mean_feature variance_feature local_maxima_3 local_maxima_without_smoothing PCA_transform,0.684672772334,2016-11-15 13:37:27.243000
+LogisticRegression,polyfit,0.415277825667,2016-11-15 14:06:13.625000
+LogisticRegression,border_smooth_sample,0.355215407209,2016-11-15 14:06:13.953000
+LogisticRegression,smooth_sample,0.353859275749,2016-11-15 14:06:14.263000
+LogisticRegression,spread,0.520947350076,2016-11-15 14:06:15.482000
+LogisticRegression,grey_white_ratio,0.450752736299,2016-11-15 14:06:15.530000
+LogisticRegression,mean_feature,0.551437231384,2016-11-15 14:06:15.583000
+LogisticRegression,variance_feature,0.400272552299,2016-11-15 14:06:15.638000
+LogisticRegression,local_maxima_3,0.456439831842,2016-11-15 14:06:15.725000
+LogisticRegression,local_maxima_without_smoothing,0.423746001839,2016-11-15 14:06:15.828000
+LogisticRegression,PCA_transform,0.323376071378,2016-11-15 14:06:15.882000
+LogisticRegression,polyfit border_smooth_sample,0.355248845537,2016-11-15 14:06:16.217000
+LogisticRegression,polyfit smooth_sample,0.353807924151,2016-11-15 14:06:16.532000
+SVC,polyfit PCA_transform,0.554998373285,2016-11-15 15:59:46.203000
+LogisticRegression,feature_border_images,0.55450968606,2016-11-15 22:07:28.804000
+LogisticRegression,feature_border_images,0.554509620611,2016-11-15 23:28:18.770000
+LogisticRegression,mean_feature,0.551437215903,2016-11-15 23:28:56.304000
+LogisticRegression,feature_border_images,0.554510828069,2016-11-15 23:43:57.468000
+LogisticRegression,mean_feature,0.551437216111,2016-11-15 23:43:57.521000
+LogisticRegression,feature_border_images,0.554511073821,2016-11-16 00:50:13.711000
+LogisticRegression,mean_feature,0.551437696728,2016-11-16 00:50:13.775000
+LogisticRegression,feature_border_images,0.554511141233,2016-11-16 21:25:46.128000
+LogisticRegression,mean_feature,0.551437207457,2016-11-16 21:25:46.212000
+LogisticRegression,feature_border_images,0.554511341003,2016-11-16 21:48:09.425000
+LogisticRegression,mean_feature,0.551437229642,2016-11-16 21:48:09.494000
+LogisticRegression,feature_border_images,0.554511198862,2016-11-16 22:44:34.961000
+LogisticRegression,variance_feature,0.402747646736,2016-11-16 22:44:35.071000
+LogisticRegression,PCA_transform polyfit,0.32358215725,2016-11-16 23:07:45.280000
+LogisticRegression,PCA_transform polyfit,0.323555724446,2016-11-16 23:12:07.220000
+LogisticRegression,PCA_transform polyfit,0.320957684563,2016-11-16 23:15:43.147000
