@@ -1,0 +1,2 @@
+
+magicNumber = 3
