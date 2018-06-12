@@ -5,16 +5,16 @@
 
 
 ***
--   2015 - 16
-  - **Autumn**
+-  ### 2015 - 16
+- **Autumn**
       - MSKU-python
-  - **Spring**
+- **Spring**
       - MSKU-java
 ***
--   2016 - 17
-  - **Autumn**
+-  ### 2016 - 17
+- **Autumn**
       - ETH-machine_learning
-  - **Spring**
+- **Spring**
       - ETH-web_engineering
       - UZH-kingsheep
       - UZH-sudoku_solver
