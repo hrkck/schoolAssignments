@@ -5,19 +5,19 @@
 - ## 2015 - 16
 
 - **Autumn**
-  - MSKU-python
+  - [MSKU_python](http://github.com/hrkucuk/schoolAssignments/tree/master/MSKU_python)
 - **Spring**
-  - MSKU-java
+  - [MSKU_java](http://github.com/hrkucuk/schoolAssignments/tree/master/MSKU_java)
 
 ***
 
 - ## 2016 - 17
 
 - **Autumn**
-  - ETH-machine_learning
+  - [ETH_machine_learning](http://github.com/hrkucuk/schoolAssignments/tree/master/ETH_machine_learning)
 - **Spring**
-  - ETH-web_engineering
-  - UZH-kingsheep
-  - UZH-sudoku_solver
-  - UZH-tweet_sentiment_analysis
+  - [ETH_web_engineering](http://github.com/hrkucuk/schoolAssignments/tree/master/ETH_web_engineering)
+  - [UZH_kingsheep](http://github.com/hrkucuk/schoolAssignments/tree/master/UZH_kingsheep)
+  - [UZH_sudoku_solver](http://github.com/hrkucuk/schoolAssignments/tree/master/UZH_sudoku_solver)
+  - [UZH_tweet_sentiment_analysis](http://github.com/hrkucuk/schoolAssignments/tree/master/UZH_tweet_sentiment_analysis)
  ***
